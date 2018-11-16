@@ -1,0 +1,55 @@
+.welcome {
+  position: relative;
+  top: 70px;
+  font-family: 'Avenir Next';
+  text-align: center;
+}
+
+.welcome h1 {
+  font-weight: 300;
+  font-size: 90px;
+  color: #00c979;
+  margin-bottom: 0;
+}
+
+.welcome p {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.button {
+  background-color: #c21756;
+  border: none;
+  color: white;
+  padding: 25px 40px;
+  font-size: 28px;
+  font-weight: 200;
+  border-radius: 50px;
+  margin-bottom: 50px;
+  text-decoration: none;
+}
+
+.button:hover {
+  opacity: 0.63;
+}
+
+.steps {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  font-family: 'Avenir Next';
+  text-align: center;
+  font-size: 20px;
+  margin-top: 120px;
+}
+
+.number {
+  height: 60px;
+  width: 60px;
+  background-color: #00c979;
+  border-radius: 50%;
+  display: inline-block;
+  color: white;
+  line-height: 60px;
+  font-size: 25px;
+  text-align: center;
+}

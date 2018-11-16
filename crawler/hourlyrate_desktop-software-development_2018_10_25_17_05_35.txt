@@ -1,0 +1,5 @@
+01871633b6ed608b47,Oct 2018,desktop-software-development,90.00
+01871633b6ed608b47,Jul 2018,desktop-software-development,80.00
+01871633b6ed608b47,Nov 2017,desktop-software-development,40.00
+01871633b6ed608b47,Mar 2018,desktop-software-development,60.00
+01871633b6ed608b47,Feb 2018,desktop-software-development,50.00

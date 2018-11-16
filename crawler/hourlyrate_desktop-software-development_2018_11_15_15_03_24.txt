@@ -1,0 +1,7 @@
+016d530cd56570bfbc,Nov 2018,desktop-software-development,85.00,Requirement Management_User Acceptance Testing_User's Guide Writing_Software QA Testing_Mobile App Testing_Mobile UI Design_Project Management_Marketing Strategy
+016d530cd56570bfbc,Aug 2018,desktop-software-development,85.00,Requirement Management_User Acceptance Testing_User's Guide Writing_Software QA Testing_Mobile App Testing_Mobile UI Design_Project Management_Marketing Strategy
+016d530cd56570bfbc,Jul 2018,desktop-software-development,85.00,Requirement Management_User Acceptance Testing_User's Guide Writing_Software QA Testing_Mobile App Testing_Mobile UI Design_Project Management_Marketing Strategy
+016d530cd56570bfbc,Aug 2018,desktop-software-development,85.00,Requirement Management_User Acceptance Testing_User's Guide Writing_Software QA Testing_Mobile App Testing_Mobile UI Design_Project Management_Marketing Strategy
+016d530cd56570bfbc,Aug 2018,desktop-software-development,50.00,Requirement Management_User Acceptance Testing_User's Guide Writing_Software QA Testing_Mobile App Testing_Mobile UI Design_Project Management_Marketing Strategy
+016d530cd56570bfbc,Aug 2018,desktop-software-development,75.00,Requirement Management_User Acceptance Testing_User's Guide Writing_Software QA Testing_Mobile App Testing_Mobile UI Design_Project Management_Marketing Strategy
+016d530cd56570bfbc,Jul 2018,desktop-software-development,50.00,Requirement Management_User Acceptance Testing_User's Guide Writing_Software QA Testing_Mobile App Testing_Mobile UI Design_Project Management_Marketing Strategy

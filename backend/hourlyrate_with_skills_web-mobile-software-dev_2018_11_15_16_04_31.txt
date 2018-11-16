@@ -1,0 +1,584 @@
+01afdf678d8b3161f3,Nov 2018,desktop-software-development,69.00,HTML,HTML5,HTML5 Canvas,PHP,phpMyAdmin,Java,JavaScript,jQuery,Unity,Adobe Photoshop
+014ff2f6dab34a07d8,Nov 2018,desktop-software-development,75.00,Concrete5 CMS,HTML,CSS
+014ff2f6dab34a07d8,May 2018,desktop-software-development,75.00,Concrete5 CMS,HTML,CSS
+014ff2f6dab34a07d8,Mar 2012,desktop-software-development,54.79,Concrete5 CMS,HTML,CSS
+014ff2f6dab34a07d8,Jun 2015,desktop-software-development,75.00,Concrete5 CMS,HTML,CSS
+014ff2f6dab34a07d8,Oct 2014,desktop-software-development,71.00,Concrete5 CMS,HTML,CSS
+0137f3e9d035d9b04d,Nov 2018,desktop-software-development,63.00,WordPress,Web Design,Web Programming,Search Engine Optimization (SEO),CSS,Google Analytics,Adobe Photoshop,HTML5,Graphic Design,On-Page Optimization
+0126efe05e50a1609a,Nov 2018,desktop-software-development,60.00,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+0126efe05e50a1609a,Oct 2018,desktop-software-development,48.00,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+0126efe05e50a1609a,Apr 2018,desktop-software-development,60.00,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+0126efe05e50a1609a,Jul 2017,desktop-software-development,45.00,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+0126efe05e50a1609a,Jul 2016,desktop-software-development,46.25,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+0126efe05e50a1609a,Feb 2017,desktop-software-development,43.75,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+0126efe05e50a1609a,Nov 2016,desktop-software-development,37.50,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+0126efe05e50a1609a,May 2016,desktop-software-development,38.89,Shopify,WordPress,HTML,CSS,Adobe Dreamweaver,Adobe Photoshop,Social Media Marketing,Adobe InDesign,Project Management
+01d112b14282b50470,Nov 2018,desktop-software-development,85.00,ASP.NET,.NET Framework,VB.NET,C#,HTML,CSS,JavaScript,XML,Microsoft SQL Server Programming,JSON
+01d112b14282b50470,Sep 2018,desktop-software-development,85.00,ASP.NET,.NET Framework,VB.NET,C#,HTML,CSS,JavaScript,XML,Microsoft SQL Server Programming,JSON
+015a799b09b9635233,Nov 2018,desktop-software-development,50.00,WordPress,Genesis Framework,PSD to Wordpress,Woocommerce,HTML5,CSS3,PHP,PSD to HTML,Frontend Development,jQuery
+015a799b09b9635233,May 2018,desktop-software-development,50.00,WordPress,Genesis Framework,PSD to Wordpress,Woocommerce,HTML5,CSS3,PHP,PSD to HTML,Frontend Development,jQuery
+015a799b09b9635233,Jun 2014,desktop-software-development,50.00,WordPress,Genesis Framework,PSD to Wordpress,Woocommerce,HTML5,CSS3,PHP,PSD to HTML,Frontend Development,jQuery
+015a799b09b9635233,Jun 2014,desktop-software-development,38.36,WordPress,Genesis Framework,PSD to Wordpress,Woocommerce,HTML5,CSS3,PHP,PSD to HTML,Frontend Development,jQuery
+013e3c764fccf17f08,Nov 2018,desktop-software-development,50.00,Search Engine Optimization (SEO),Website Development,Website Analytics,WordPress,Google Analytics,CSS,HTML
+013e3c764fccf17f08,Feb 2018,desktop-software-development,45.00,Search Engine Optimization (SEO),Website Development,Website Analytics,WordPress,Google Analytics,CSS,HTML
+014450b93bf4895df1,Nov 2018,desktop-software-development,40.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,Jul 2017,desktop-software-development,30.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,Feb 2018,desktop-software-development,30.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,Sep 2017,desktop-software-development,30.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,Jul 2017,desktop-software-development,22.50,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,May 2017,desktop-software-development,20.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,Mar 2017,desktop-software-development,20.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,Apr 2017,desktop-software-development,20.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+014450b93bf4895df1,Jun 2017,desktop-software-development,25.00,Graphic Design,Typography,Responsive Web Design,Website Development,Logo Design,Icon Design,WordPress,Corporate Brand Identity,Print Design,Web Design
+01d8f067fa75d830de,Nov 2018,desktop-software-development,32.00,Caspio Programming,WordPress,Microsoft Access Programming,MySQL Programming,PHP,phpMyAdmin,CPanel,Web Hosting,FTP,Domain Migration
+011ab11c540bba7bfe,Nov 2018,desktop-software-development,35.00,HTML,CSS,jQuery,PHP,MySQL Administration,Adobe Photoshop,Adobe Illustrator,Adobe Premiere Pro,Adobe After Effects
+01402d7c862810a63c,Nov 2018,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,Sep 2018,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,Jun 2018,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,May 2017,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,Oct 2017,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,Mar 2018,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,Jan 2018,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,Dec 2017,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01402d7c862810a63c,Aug 2017,desktop-software-development,75.00,WordPress,PHP,HTML5,jQuery,MySQL Administration,Wordpress Plugin,PSD to Wordpress,JSON,API Development,Google Maps API
+01c91bc5292d652bdc,Nov 2018,desktop-software-development,75.00,SquareSpace,WordPress,Website Development,Graphic Design,Adobe Illustrator,Adobe Photoshop,MailChimp,HTML,CSS,JavaScript
+01c91bc5292d652bdc,Jul 2018,desktop-software-development,47.00,SquareSpace,WordPress,Website Development,Graphic Design,Adobe Illustrator,Adobe Photoshop,MailChimp,HTML,CSS,JavaScript
+01c91bc5292d652bdc,Apr 2018,desktop-software-development,47.00,SquareSpace,WordPress,Website Development,Graphic Design,Adobe Illustrator,Adobe Photoshop,MailChimp,HTML,CSS,JavaScript
+012bf74ac927e02f38,Nov 2018,desktop-software-development,28.50,WordPress,CSS,CSS3,HTML5,Internet Marketing,Shopify,Audio Editing,Search Engine Optimization (SEO)
+012bf74ac927e02f38,Mar 2017,desktop-software-development,18.00,WordPress,CSS,CSS3,HTML5,Internet Marketing,Shopify,Audio Editing,Search Engine Optimization (SEO)
+012bf74ac927e02f38,Aug 2015,desktop-software-development,14.25,WordPress,CSS,CSS3,HTML5,Internet Marketing,Shopify,Audio Editing,Search Engine Optimization (SEO)
+012bf74ac927e02f38,Dec 2015,desktop-software-development,14.25,WordPress,CSS,CSS3,HTML5,Internet Marketing,Shopify,Audio Editing,Search Engine Optimization (SEO)
+012bf74ac927e02f38,Dec 2015,desktop-software-development,16.50,WordPress,CSS,CSS3,HTML5,Internet Marketing,Shopify,Audio Editing,Search Engine Optimization (SEO)
+019a3ddf0f81049ed4,Nov 2018,desktop-software-development,65.00,Microsoft SharePoint Development,Microsoft SharePoint Administration,ASP.NET,Microsoft Visual Studio,C#,ASP.NET MVC,Responsive Web Design,WordPress,HTML5,JavaScript
+019a3ddf0f81049ed4,Jul 2017,desktop-software-development,50.00,Microsoft SharePoint Development,Microsoft SharePoint Administration,ASP.NET,Microsoft Visual Studio,C#,ASP.NET MVC,Responsive Web Design,WordPress,HTML5,JavaScript
+019a3ddf0f81049ed4,May 2017,desktop-software-development,20.00,Microsoft SharePoint Development,Microsoft SharePoint Administration,ASP.NET,Microsoft Visual Studio,C#,ASP.NET MVC,Responsive Web Design,WordPress,HTML5,JavaScript
+019a3ddf0f81049ed4,Apr 2016,desktop-software-development,25.00,Microsoft SharePoint Development,Microsoft SharePoint Administration,ASP.NET,Microsoft Visual Studio,C#,ASP.NET MVC,Responsive Web Design,WordPress,HTML5,JavaScript
+019a3ddf0f81049ed4,Feb 2016,desktop-software-development,30.00,Microsoft SharePoint Development,Microsoft SharePoint Administration,ASP.NET,Microsoft Visual Studio,C#,ASP.NET MVC,Responsive Web Design,WordPress,HTML5,JavaScript
+019a3ddf0f81049ed4,Feb 2016,desktop-software-development,30.00,Microsoft SharePoint Development,Microsoft SharePoint Administration,ASP.NET,Microsoft Visual Studio,C#,ASP.NET MVC,Responsive Web Design,WordPress,HTML5,JavaScript
+019a3ddf0f81049ed4,Jan 2016,desktop-software-development,30.00,Microsoft SharePoint Development,Microsoft SharePoint Administration,ASP.NET,Microsoft Visual Studio,C#,ASP.NET MVC,Responsive Web Design,WordPress,HTML5,JavaScript
+01903e9bd4b5c67055,Nov 2018,desktop-software-development,55.00,User Experience Design,User Interface Design,Corporate Brand Identity,Brand Management,Responsive Web Design,Web Design,Frontend Development,Mobile UI Design,Graphic Design,Mobile App Development
+01903e9bd4b5c67055,Oct 2018,desktop-software-development,35.00,User Experience Design,User Interface Design,Corporate Brand Identity,Brand Management,Responsive Web Design,Web Design,Frontend Development,Mobile UI Design,Graphic Design,Mobile App Development
+01878352b5802cd34c,Nov 2018,desktop-software-development,65.00,WordPress,HTML,CSS,Shopify,BigCommerce
+01878352b5802cd34c,Jan 2017,desktop-software-development,25.00,WordPress,HTML,CSS,Shopify,BigCommerce
+01d5195472b9536f61,Nov 2018,desktop-software-development,30.00,WordPress,CSS3,HTML5,JavaScript,jQuery,PHP
+01d5195472b9536f61,Apr 2018,desktop-software-development,30.00,WordPress,CSS3,HTML5,JavaScript,jQuery,PHP
+01d5195472b9536f61,Apr 2018,desktop-software-development,30.00,WordPress,CSS3,HTML5,JavaScript,jQuery,PHP
+01d5195472b9536f61,Nov 2016,desktop-software-development,7.00,WordPress,CSS3,HTML5,JavaScript,jQuery,PHP
+010f3edce56c955909,Nov 2018,desktop-software-development,75.00,Joomla,Magento,Social Networking Development,Ecommerce Platform Development
+019816bd474f2ae511,Nov 2018,desktop-software-development,50.00,WordPress,Web Design,Website Development,HTML5,CSS,JavaScript,PHP
+011ced33ee45d0c4fb,Nov 2018,desktop-software-development,95.00,PHP,Drupal,Django,C#,Microsoft SQL Server Programming
+011ced33ee45d0c4fb,Jul 2018,desktop-software-development,95.00,PHP,Drupal,Django,C#,Microsoft SQL Server Programming
+01250cdaad842eced7,Nov 2018,desktop-software-development,75.00,HTML,CSS,JavaScript,React.js,WordPress,PHP
+01250cdaad842eced7,Mar 2018,desktop-software-development,25.00,HTML,CSS,JavaScript,React.js,WordPress,PHP
+01250cdaad842eced7,Mar 2018,desktop-software-development,25.00,HTML,CSS,JavaScript,React.js,WordPress,PHP
+01250cdaad842eced7,Jan 2018,desktop-software-development,3.00,HTML,CSS,JavaScript,React.js,WordPress,PHP
+010169ae6c4fa107fa,Nov 2018,desktop-software-development,85.00,PHP,WordPress,Drupal,Ruby,Django,HTML5,CSS3,CRM,ASP.NET,Shopify
+010169ae6c4fa107fa,Sep 2018,desktop-software-development,65.00,PHP,WordPress,Drupal,Ruby,Django,HTML5,CSS3,CRM,ASP.NET,Shopify
+010169ae6c4fa107fa,Sep 2018,desktop-software-development,75.00,PHP,WordPress,Drupal,Ruby,Django,HTML5,CSS3,CRM,ASP.NET,Shopify
+010169ae6c4fa107fa,Aug 2018,desktop-software-development,65.00,PHP,WordPress,Drupal,Ruby,Django,HTML5,CSS3,CRM,ASP.NET,Shopify
+010169ae6c4fa107fa,Mar 2018,desktop-software-development,65.00,PHP,WordPress,Drupal,Ruby,Django,HTML5,CSS3,CRM,ASP.NET,Shopify
+010169ae6c4fa107fa,Feb 2018,desktop-software-development,60.00,PHP,WordPress,Drupal,Ruby,Django,HTML5,CSS3,CRM,ASP.NET,Shopify
+010169ae6c4fa107fa,Feb 2018,desktop-software-development,60.00,PHP,WordPress,Drupal,Ruby,Django,HTML5,CSS3,CRM,ASP.NET,Shopify
+0114600f80ea10ef15,Nov 2018,desktop-software-development,60.00,WordPress,Wordpress Plugin,PSD to Wordpress,PHP,Python,Django,Flask,Web Hosting
+0114600f80ea10ef15,Jul 2018,desktop-software-development,40.00,WordPress,Wordpress Plugin,PSD to Wordpress,PHP,Python,Django,Flask,Web Hosting
+019ab969da788ee18e,Nov 2018,desktop-software-development,40.00,Responsive Web Design,PHP,CSS3,WordPress,Joomla,Website Development,Web Testing,PSD to HTML,CSS,Adobe Photoshop
+01712a166073edd2b6,Nov 2018,desktop-software-development,79.00,iPhone App Development,Swift,Web Programming,iOS Development,Project Management,Artificial Intelligence,Node.js,Database Programming,PHP,Objective-C
+01712a166073edd2b6,Jun 2017,desktop-software-development,30.00,iPhone App Development,Swift,Web Programming,iOS Development,Project Management,Artificial Intelligence,Node.js,Database Programming,PHP,Objective-C
+01712a166073edd2b6,May 2017,desktop-software-development,20.00,iPhone App Development,Swift,Web Programming,iOS Development,Project Management,Artificial Intelligence,Node.js,Database Programming,PHP,Objective-C
+01712a166073edd2b6,Feb 2015,desktop-software-development,21.92,iPhone App Development,Swift,Web Programming,iOS Development,Project Management,Artificial Intelligence,Node.js,Database Programming,PHP,Objective-C
+01712a166073edd2b6,Nov 2015,desktop-software-development,25.00,iPhone App Development,Swift,Web Programming,iOS Development,Project Management,Artificial Intelligence,Node.js,Database Programming,PHP,Objective-C
+013b06b500240474a3,Nov 2018,desktop-software-development,40.00,Flask,d3.js,jQuery,Python,Bioinformatics,Data Visualization,Amazon S3,Heroku,Microsoft Windows Azure
+013b06b500240474a3,Jul 2018,desktop-software-development,35.00,Flask,d3.js,jQuery,Python,Bioinformatics,Data Visualization,Amazon S3,Heroku,Microsoft Windows Azure
+013b06b500240474a3,Jul 2018,desktop-software-development,40.00,Flask,d3.js,jQuery,Python,Bioinformatics,Data Visualization,Amazon S3,Heroku,Microsoft Windows Azure
+013b06b500240474a3,Jul 2018,desktop-software-development,40.00,Flask,d3.js,jQuery,Python,Bioinformatics,Data Visualization,Amazon S3,Heroku,Microsoft Windows Azure
+013b06b500240474a3,Apr 2018,desktop-software-development,20.00,Flask,d3.js,jQuery,Python,Bioinformatics,Data Visualization,Amazon S3,Heroku,Microsoft Windows Azure
+0196c49e3592b2dde0,Nov 2018,desktop-software-development,150.00,Android,Android App Development,iOS Development,iPhone App Development
+0196c49e3592b2dde0,Jul 2017,desktop-software-development,75.00,Android,Android App Development,iOS Development,iPhone App Development
+0196c49e3592b2dde0,Sep 2016,desktop-software-development,50.00,Android,Android App Development,iOS Development,iPhone App Development
+01f2ea500ada208f61,Nov 2018,desktop-software-development,65.00,Magento,Laravel Framework,WordPress,Wordpress Plugin,Wordpress Theme,Woocommerce,PHP,MySQL Programming,MongoDB,API Development
+01f2ea500ada208f61,Oct 2018,desktop-software-development,50.00,Magento,Laravel Framework,WordPress,Wordpress Plugin,Wordpress Theme,Woocommerce,PHP,MySQL Programming,MongoDB,API Development
+01f2ea500ada208f61,Mar 2018,desktop-software-development,40.00,Magento,Laravel Framework,WordPress,Wordpress Plugin,Wordpress Theme,Woocommerce,PHP,MySQL Programming,MongoDB,API Development
+01f2ea500ada208f61,Jul 2018,desktop-software-development,50.00,Magento,Laravel Framework,WordPress,Wordpress Plugin,Wordpress Theme,Woocommerce,PHP,MySQL Programming,MongoDB,API Development
+01aba22ce392462a9f,Nov 2018,desktop-software-development,45.00,HTML,CSS,Twitter Bootstrap,JavaScript,jQuery,Responsive Web Design,WordPress,Sketch,NativeScript,PSD to HTML
+01aba22ce392462a9f,Jun 2018,desktop-software-development,40.00,HTML,CSS,Twitter Bootstrap,JavaScript,jQuery,Responsive Web Design,WordPress,Sketch,NativeScript,PSD to HTML
+01aba22ce392462a9f,Jun 2017,desktop-software-development,27.50,HTML,CSS,Twitter Bootstrap,JavaScript,jQuery,Responsive Web Design,WordPress,Sketch,NativeScript,PSD to HTML
+01aba22ce392462a9f,Sep 2015,desktop-software-development,22.22,HTML,CSS,Twitter Bootstrap,JavaScript,jQuery,Responsive Web Design,WordPress,Sketch,NativeScript,PSD to HTML
+01e06edc22120bdc6b,Nov 2018,desktop-software-development,45.00,HTML,CSS,JavaScript,jQuery,Node.js,React.js,SQL,MongoDB,d3.js,React Native
+01e06edc22120bdc6b,Apr 2017,desktop-software-development,11.00,HTML,CSS,JavaScript,jQuery,Node.js,React.js,SQL,MongoDB,d3.js,React Native
+01c8b810594347647a,Nov 2018,desktop-software-development,275.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01c8b810594347647a,Sep 2018,desktop-software-development,175.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01c8b810594347647a,Feb 2013,desktop-software-development,89.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01c8b810594347647a,Jul 2011,desktop-software-development,60.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01c8b810594347647a,Sep 2011,desktop-software-development,60.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01c8b810594347647a,Aug 2009,desktop-software-development,45.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01c8b810594347647a,Jul 2011,desktop-software-development,60.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01c8b810594347647a,Jul 2009,desktop-software-development,35.00,User Interface Design,Web Design,Interaction Design,iPhone UI Design,User Experience Design
+01306f071e676bb7fe,Nov 2018,desktop-software-development,70.00,React.js,Node.js,MongoDB,Express Js,Firebase,Amazon Web Services
+01306f071e676bb7fe,Jul 2018,desktop-software-development,70.00,React.js,Node.js,MongoDB,Express Js,Firebase,Amazon Web Services
+01e5008888d2a2aebc,Nov 2018,desktop-software-development,60.00,HTML,CSS,Email Marketing,Responsive Web Design,Email Deliverability,XSLT,SQL,JavaScript
+0149a3d462ad71ae72,Nov 2018,desktop-software-development,75.00,Logo Design,Advertising,Adobe Illustrator,Adobe Photoshop,Management Skills,Brochure Design,Label and Package Design,User Interface Design,Corporate Brand Identity,Web Design
+0149a3d462ad71ae72,Mar 2018,desktop-software-development,60.00,Logo Design,Advertising,Adobe Illustrator,Adobe Photoshop,Management Skills,Brochure Design,Label and Package Design,User Interface Design,Corporate Brand Identity,Web Design
+0149a3d462ad71ae72,Jan 2018,desktop-software-development,75.00,Logo Design,Advertising,Adobe Illustrator,Adobe Photoshop,Management Skills,Brochure Design,Label and Package Design,User Interface Design,Corporate Brand Identity,Web Design
+01aeb5a8ba5e1d2e5e,Nov 2018,desktop-software-development,52.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+01aeb5a8ba5e1d2e5e,May 2018,desktop-software-development,39.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+01aeb5a8ba5e1d2e5e,Apr 2018,desktop-software-development,28.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+01aeb5a8ba5e1d2e5e,Feb 2017,desktop-software-development,24.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+017904f681fe28e2c1,Nov 2018,desktop-software-development,80.00,PHP,WordPress,Wordpress Theme,Wordpress Multisite,Wordpress Plugin,Frontend Development,JavaScript,jQuery,CSS,Vue.js
+017904f681fe28e2c1,Aug 2018,desktop-software-development,65.00,PHP,WordPress,Wordpress Theme,Wordpress Multisite,Wordpress Plugin,Frontend Development,JavaScript,jQuery,CSS,Vue.js
+017904f681fe28e2c1,Aug 2018,desktop-software-development,80.00,PHP,WordPress,Wordpress Theme,Wordpress Multisite,Wordpress Plugin,Frontend Development,JavaScript,jQuery,CSS,Vue.js
+016f47c829fe8e6fcf,Nov 2018,desktop-software-development,150.00,ASP.NET MVC,C#,Python,SQL Azure,Amazon EC2,Website Development,REST,.NET Framework,React.js,Enterprise Architecture
+0149a3d462ad71ae72,Nov 2018,desktop-software-development,75.00,Logo Design,Advertising,Adobe Illustrator,Adobe Photoshop,Management Skills,Brochure Design,Label and Package Design,User Interface Design,Corporate Brand Identity,Web Design
+0149a3d462ad71ae72,Mar 2018,desktop-software-development,60.00,Logo Design,Advertising,Adobe Illustrator,Adobe Photoshop,Management Skills,Brochure Design,Label and Package Design,User Interface Design,Corporate Brand Identity,Web Design
+0149a3d462ad71ae72,Jan 2018,desktop-software-development,75.00,Logo Design,Advertising,Adobe Illustrator,Adobe Photoshop,Management Skills,Brochure Design,Label and Package Design,User Interface Design,Corporate Brand Identity,Web Design
+01aeb5a8ba5e1d2e5e,Nov 2018,desktop-software-development,52.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+01aeb5a8ba5e1d2e5e,May 2018,desktop-software-development,39.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+01aeb5a8ba5e1d2e5e,Apr 2018,desktop-software-development,28.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+01aeb5a8ba5e1d2e5e,Feb 2017,desktop-software-development,24.00,Manual Test Execution,Automated Testing,Software QA Testing,QA Engineering,Performance Testing,Black Box Testing,Selenium WebDriver,Java,Cucumber,C#
+01f2d778b9555e23ce,Nov 2018,desktop-software-development,25.00,Website Development,Web Design,WordPress,Social Media Marketing,Amazon Listing Optimization,Project Management Professional,PSD to HTML,CSS,Ecommerce Platform Development,Web Host Manager
+01f2d778b9555e23ce,Feb 2018,desktop-software-development,20.00,Website Development,Web Design,WordPress,Social Media Marketing,Amazon Listing Optimization,Project Management Professional,PSD to HTML,CSS,Ecommerce Platform Development,Web Host Manager
+0195bca293add4bdec,Nov 2018,desktop-software-development,70.00,WordPress,PHP,JavaScript,SEO Keyword Research,Social Media Marketing,HTML5,CSS3,AngularJS,Node.js,React.js
+01ab413f62da6c0497,Nov 2018,desktop-software-development,75.00,HTML5,Microsoft Windows Azure,C#,Project Management,ASP.NET,Ecommerce Platform Development,Bootstrap,Microsoft SQL Server Programming
+01551f9282233437ec,Nov 2018,desktop-software-development,33.00,HTML5,CSS3,WordPress,Wordpress Theme,Wordpress Plugin,PHP,JavaScript,jQuery,MySQL Programming,SQL
+01551f9282233437ec,Apr 2018,desktop-software-development,25.00,HTML5,CSS3,WordPress,Wordpress Theme,Wordpress Plugin,PHP,JavaScript,jQuery,MySQL Programming,SQL
+016afce6e21601f54a,Nov 2018,desktop-software-development,30.00,Web Design,Print Design,Logo Design,Invitation Design,Brand Consulting,Poster Design,Graphic Design,Search Engine Optimization (SEO),Internet Marketing,Google AdWords
+016afce6e21601f54a,Aug 2018,desktop-software-development,35.00,Web Design,Print Design,Logo Design,Invitation Design,Brand Consulting,Poster Design,Graphic Design,Search Engine Optimization (SEO),Internet Marketing,Google AdWords
+014f08d2ee46d32164,Nov 2018,desktop-software-development,85.00,Scala,JavaScript,SQL,Data Visualization,MongoDB,React.js,Node.js,Play Framework,Ruby on Rails,Amazon Web Services
+0132e95d537c457424,Nov 2018,desktop-software-development,100.00,Java,Ruby on Rails,Scripting,Linux System Administration,Python,Distributed Computing,Performance Tuning
+01fb00d9267afc4395,Nov 2018,desktop-software-development,40.00,Training Online LMS,Learning Management System (LMS),HTML5,CSS,Responsive Web Design,WordPress,Project Management,Curriculum Development,Microsoft Office,Virtual Assistant
+01eec5b92e4d165ee6,Nov 2018,desktop-software-development,54.00,Web Design,Mobile UI Design,Mobile App Development,Buildbox,Logo Design,WiX,SquareSpace,CSS,PHP,PSD to Wordpress
+01eb6d2b9ee53ec5bc,Nov 2018,desktop-software-development,44.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01eb6d2b9ee53ec5bc,Apr 2018,desktop-software-development,39.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01eb6d2b9ee53ec5bc,Oct 2018,desktop-software-development,46.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01eb6d2b9ee53ec5bc,Jul 2018,desktop-software-development,39.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01eb6d2b9ee53ec5bc,Apr 2018,desktop-software-development,39.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01eb6d2b9ee53ec5bc,Mar 2018,desktop-software-development,39.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01eb6d2b9ee53ec5bc,May 2018,desktop-software-development,46.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01eb6d2b9ee53ec5bc,Apr 2018,desktop-software-development,39.00,HTML5,PSD to HTML,CSS3,PHP,Web Hosting,JavaScript,SQL,Responsive Web Design,Email Marketing,Shopify
+01d2ddbecaa317fe66,Nov 2018,desktop-software-development,35.00,Swift,Python,JavaScript,C++,Objective-C,Qt,MySQL Administration,PostgreSQL Administration
+01d2ddbecaa317fe66,Apr 2018,desktop-software-development,35.00,Swift,Python,JavaScript,C++,Objective-C,Qt,MySQL Administration,PostgreSQL Administration
+01e9811f43aa8834c2,Nov 2018,desktop-software-development,50.00,Adobe Creative Suite,WordPress,SquareSpace,HTML,CSS,WiX,Weebly,Print Layout Design,Responsive Web Design,Blog Development
+01e9811f43aa8834c2,Apr 2018,desktop-software-development,35.00,Adobe Creative Suite,WordPress,SquareSpace,HTML,CSS,WiX,Weebly,Print Layout Design,Responsive Web Design,Blog Development
+01e9811f43aa8834c2,Feb 2018,desktop-software-development,38.00,Adobe Creative Suite,WordPress,SquareSpace,HTML,CSS,WiX,Weebly,Print Layout Design,Responsive Web Design,Blog Development
+01044c237be3848ef4,Nov 2018,desktop-software-development,95.00,PHP,Laravel Framework,C#,ASP.NET,Excel VBA,Microsoft Excel,Data Analytics,Website Development,MySQL Administration,AngularJS
+01044c237be3848ef4,Jan 2017,desktop-software-development,95.00,PHP,Laravel Framework,C#,ASP.NET,Excel VBA,Microsoft Excel,Data Analytics,Website Development,MySQL Administration,AngularJS
+01044c237be3848ef4,Dec 2017,desktop-software-development,95.00,PHP,Laravel Framework,C#,ASP.NET,Excel VBA,Microsoft Excel,Data Analytics,Website Development,MySQL Administration,AngularJS
+01044c237be3848ef4,Nov 2017,desktop-software-development,95.00,PHP,Laravel Framework,C#,ASP.NET,Excel VBA,Microsoft Excel,Data Analytics,Website Development,MySQL Administration,AngularJS
+01044c237be3848ef4,May 2017,desktop-software-development,85.00,PHP,Laravel Framework,C#,ASP.NET,Excel VBA,Microsoft Excel,Data Analytics,Website Development,MySQL Administration,AngularJS
+01044c237be3848ef4,Aug 2016,desktop-software-development,95.00,PHP,Laravel Framework,C#,ASP.NET,Excel VBA,Microsoft Excel,Data Analytics,Website Development,MySQL Administration,AngularJS
+01f2385135834ef12d,Nov 2018,desktop-software-development,75.00,Web Content Accessibility Guidelines (WCAG),Section 508 Compliance,Accessibility,WordPress,HTML,CSS,PHP
+01f2385135834ef12d,Jan 2018,desktop-software-development,35.00,Web Content Accessibility Guidelines (WCAG),Section 508 Compliance,Accessibility,WordPress,HTML,CSS,PHP
+01f2385135834ef12d,Jul 2017,desktop-software-development,20.00,Web Content Accessibility Guidelines (WCAG),Section 508 Compliance,Accessibility,WordPress,HTML,CSS,PHP
+012340b1ccf6b36ffc,Nov 2018,desktop-software-development,75.00,Python,API Development,MySQL Programming,Flask,Amazon Web Services,SQL,GraphQL,JavaScript,Google Cloud Platform,AWS Lambda
+012340b1ccf6b36ffc,Feb 2018,desktop-software-development,68.00,Python,API Development,MySQL Programming,Flask,Amazon Web Services,SQL,GraphQL,JavaScript,Google Cloud Platform,AWS Lambda
+012340b1ccf6b36ffc,Feb 2018,desktop-software-development,55.00,Python,API Development,MySQL Programming,Flask,Amazon Web Services,SQL,GraphQL,JavaScript,Google Cloud Platform,AWS Lambda
+012340b1ccf6b36ffc,Oct 2017,desktop-software-development,55.00,Python,API Development,MySQL Programming,Flask,Amazon Web Services,SQL,GraphQL,JavaScript,Google Cloud Platform,AWS Lambda
+012340b1ccf6b36ffc,Feb 2018,desktop-software-development,55.00,Python,API Development,MySQL Programming,Flask,Amazon Web Services,SQL,GraphQL,JavaScript,Google Cloud Platform,AWS Lambda
+012340b1ccf6b36ffc,Dec 2017,desktop-software-development,68.00,Python,API Development,MySQL Programming,Flask,Amazon Web Services,SQL,GraphQL,JavaScript,Google Cloud Platform,AWS Lambda
+012340b1ccf6b36ffc,Oct 2017,desktop-software-development,45.00,Python,API Development,MySQL Programming,Flask,Amazon Web Services,SQL,GraphQL,JavaScript,Google Cloud Platform,AWS Lambda
+014b5dc9450794684a,Nov 2018,desktop-software-development,50.00,Java,HTML,CSS,JavaScript,Python,Lua
+01061b0ec6b5356f23,Nov 2018,desktop-software-development,40.00,Time Management,HTML5,Ruby on Rails,User Experience Design,JavaScript,Git,Ecommerce Platform Development,SquareSpace,Amazon Web Services,CSS
+01b4c1c4ab936fda8d,Nov 2018,desktop-software-development,80.00,User Interface Design,Web Design,Information Design,Mobile UI Design,Responsive Web Design,d3.js,React.js,Frontend Development
+01b4c1c4ab936fda8d,Aug 2016,desktop-software-development,55.00,User Interface Design,Web Design,Information Design,Mobile UI Design,Responsive Web Design,d3.js,React.js,Frontend Development
+01b4c1c4ab936fda8d,May 2015,desktop-software-development,25.00,User Interface Design,Web Design,Information Design,Mobile UI Design,Responsive Web Design,d3.js,React.js,Frontend Development
+01b596ae377de66528,Nov 2018,desktop-software-development,89.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+01b596ae377de66528,Oct 2018,desktop-software-development,99.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+01b596ae377de66528,May 2017,desktop-software-development,80.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+01b596ae377de66528,May 2017,desktop-software-development,70.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+01b596ae377de66528,Apr 2018,desktop-software-development,80.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+01b596ae377de66528,May 2017,desktop-software-development,79.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+01b596ae377de66528,Mar 2017,desktop-software-development,70.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+01b596ae377de66528,Oct 2016,desktop-software-development,30.00,PHP,JavaScript,Database Design,Database Programming,Laravel Framework,WordPress,Website Development,Elasticsearch,Object Oriented Programming (OOP),Ecommerce Platform Development
+0137be8026fbf9241d,Nov 2018,desktop-software-development,50.00,Google AdWords,Facebook Marketing,Search Engine Optimization (SEO),Search Engine Marketing (SEM),Pay Per Click Advertising,Media Buying,Social Media Marketing
+0137be8026fbf9241d,Feb 2018,desktop-software-development,40.00,Google AdWords,Facebook Marketing,Search Engine Optimization (SEO),Search Engine Marketing (SEM),Pay Per Click Advertising,Media Buying,Social Media Marketing
+0137be8026fbf9241d,Sep 2017,desktop-software-development,40.00,Google AdWords,Facebook Marketing,Search Engine Optimization (SEO),Search Engine Marketing (SEM),Pay Per Click Advertising,Media Buying,Social Media Marketing
+0184aea1de968f46c5,Nov 2018,desktop-software-development,50.00,Swift,Objective-C,Java,React Native,WordPress,Node.js,Laravel Framework,Cocos2d,AngularJS,Mobile App Development
+015b714621ebf0c666,Nov 2018,desktop-software-development,35.00,HTML,CSS,PHP,JavaScript,jQuery,LESS,Sass,Bootstrap,Magento,Shopify
+015b714621ebf0c666,Mar 2018,desktop-software-development,22.50,HTML,CSS,PHP,JavaScript,jQuery,LESS,Sass,Bootstrap,Magento,Shopify
+015b714621ebf0c666,May 2017,desktop-software-development,50.00,HTML,CSS,PHP,JavaScript,jQuery,LESS,Sass,Bootstrap,Magento,Shopify
+01420620fdc7158c75,Nov 2018,desktop-software-development,90.00,Photography,Email Marketing,Website Development,SquareSpace,Photo Retouching,Web Design,Shopify
+01420620fdc7158c75,Jun 2017,desktop-software-development,35.00,Photography,Email Marketing,Website Development,SquareSpace,Photo Retouching,Web Design,Shopify
+017f722af51291bd5b,Nov 2018,desktop-software-development,220.00,Python,HTML,JavaScript,Enterprise Resource Planning (ERP),Consulting,Infor CloudSuite,Data Migration,IBM WebSphere,SQL,Microsoft Windows Server
+017f722af51291bd5b,Jul 2014,desktop-software-development,16.00,Python,HTML,JavaScript,Enterprise Resource Planning (ERP),Consulting,Infor CloudSuite,Data Migration,IBM WebSphere,SQL,Microsoft Windows Server
+01fd5a7913dbc7a87a,Nov 2018,desktop-software-development,75.00,HTML5,CSS,HTML,jQuery,Adobe Illustrator,Adobe InDesign,JavaScript,Adobe Photoshop,Adobe Dreamweaver,Adobe After Effects
+011f9f2e1b7d05b2e0,Nov 2018,desktop-software-development,62.50,HTML5,jQuery,AJAX,Real Estate IDX,PHP,CSS,Search Engine Optimization (SEO),Google AdSense,JavaScript,Algorithm Development
+011f9f2e1b7d05b2e0,Nov 2014,desktop-software-development,21.92,HTML5,jQuery,AJAX,Real Estate IDX,PHP,CSS,Search Engine Optimization (SEO),Google AdSense,JavaScript,Algorithm Development
+011f9f2e1b7d05b2e0,Dec 2014,desktop-software-development,21.92,HTML5,jQuery,AJAX,Real Estate IDX,PHP,CSS,Search Engine Optimization (SEO),Google AdSense,JavaScript,Algorithm Development
+011f9f2e1b7d05b2e0,Nov 2014,desktop-software-development,21.92,HTML5,jQuery,AJAX,Real Estate IDX,PHP,CSS,Search Engine Optimization (SEO),Google AdSense,JavaScript,Algorithm Development
+011f9f2e1b7d05b2e0,Nov 2014,desktop-software-development,21.92,HTML5,jQuery,AJAX,Real Estate IDX,PHP,CSS,Search Engine Optimization (SEO),Google AdSense,JavaScript,Algorithm Development
+011f9f2e1b7d05b2e0,Nov 2014,desktop-software-development,21.92,HTML5,jQuery,AJAX,Real Estate IDX,PHP,CSS,Search Engine Optimization (SEO),Google AdSense,JavaScript,Algorithm Development
+018c4c5c670419ad71,Nov 2018,desktop-software-development,92.00,WordPress,PHP,MySQL Programming,Microsoft Excel,"Extract, Transform and Load (ETL)",Web Scraping,Data Scraping,aMember,Database Design,Wordpress Plugin
+018c4c5c670419ad71,Mar 2016,desktop-software-development,77.78,WordPress,PHP,MySQL Programming,Microsoft Excel,"Extract, Transform and Load (ETL)",Web Scraping,Data Scraping,aMember,Database Design,Wordpress Plugin
+018c4c5c670419ad71,Mar 2018,desktop-software-development,92.00,WordPress,PHP,MySQL Programming,Microsoft Excel,"Extract, Transform and Load (ETL)",Web Scraping,Data Scraping,aMember,Database Design,Wordpress Plugin
+018c4c5c670419ad71,Nov 2016,desktop-software-development,92.00,WordPress,PHP,MySQL Programming,Microsoft Excel,"Extract, Transform and Load (ETL)",Web Scraping,Data Scraping,aMember,Database Design,Wordpress Plugin
+018c4c5c670419ad71,Sep 2016,desktop-software-development,92.00,WordPress,PHP,MySQL Programming,Microsoft Excel,"Extract, Transform and Load (ETL)",Web Scraping,Data Scraping,aMember,Database Design,Wordpress Plugin
+010cc1394261fd0428,Nov 2018,desktop-software-development,45.00,JavaScript,CSS3,HTML5 Canvas,PHP,Lua,Git
+010cc1394261fd0428,Jun 2018,desktop-software-development,25.00,JavaScript,CSS3,HTML5 Canvas,PHP,Lua,Git
+010cc1394261fd0428,May 2018,desktop-software-development,25.00,JavaScript,CSS3,HTML5 Canvas,PHP,Lua,Git
+010cc1394261fd0428,Mar 2018,desktop-software-development,30.00,JavaScript,CSS3,HTML5 Canvas,PHP,Lua,Git
+01a1a389d10ee2a8a8,Nov 2018,desktop-software-development,100.00,Java,Node.js,AngularJS,HTML,React.js,Golang,Angular 6
+01dff551ef9b489fa9,Nov 2018,desktop-software-development,35.00,PHP,MySQL Administration,MySQL Programming,Laravel Framework,jQuery,JavaScript,HTML5,CSS3,Bootstrap
+01dff551ef9b489fa9,Apr 2018,desktop-software-development,5.00,PHP,MySQL Administration,MySQL Programming,Laravel Framework,jQuery,JavaScript,HTML5,CSS3,Bootstrap
+01dff551ef9b489fa9,Nov 2018,desktop-software-development,20.00,PHP,MySQL Administration,MySQL Programming,Laravel Framework,jQuery,JavaScript,HTML5,CSS3,Bootstrap
+01dff551ef9b489fa9,Jun 2018,desktop-software-development,25.00,PHP,MySQL Administration,MySQL Programming,Laravel Framework,jQuery,JavaScript,HTML5,CSS3,Bootstrap
+01aa2818426fec5227,Nov 2018,desktop-software-development,60.00,Ruby on Rails,iOS Development,HTML,JavaScript,CSS,MySQL Programming,Amazon DynamoDB,PHP,AWS Lambda
+01ebf1c2e0b39b58c8,Nov 2018,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ebf1c2e0b39b58c8,May 2018,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ebf1c2e0b39b58c8,Jan 2018,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ebf1c2e0b39b58c8,Dec 2016,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ebf1c2e0b39b58c8,Feb 2018,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ebf1c2e0b39b58c8,Nov 2017,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ebf1c2e0b39b58c8,Mar 2017,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ebf1c2e0b39b58c8,Jan 2017,desktop-software-development,35.00,HTML5,WordPress,jQuery,Adobe Photoshop,MySQL Programming,Zoho CRM,JavaScript,Woocommerce
+01ba7a0e1667523c5e,Nov 2018,desktop-software-development,50.00,WordPress,Event Planning,Recruiting
+01ba7a0e1667523c5e,Mar 2018,desktop-software-development,30.00,WordPress,Event Planning,Recruiting
+017e58d3d4182ae117,Nov 2018,desktop-software-development,85.00,HTML,CSS,JavaScript,WordPress,jQuery,XHTML,HTML5,Magento,PHP,Java
+0144c712297f32967f,Nov 2018,desktop-software-development,125.00,SQL Programming,Microsoft SQL Server Programming,Transact-SQL,Microsoft SQL Server Administration,Database Programming,Database Administration,PostgreSQL Programming,ASP.NET,WordPress,MySQL Programming
+019ab9e130636a855b,Nov 2018,desktop-software-development,80.00,Wordpress Theme,WordPress,Wordpress Plugin,Woocommerce,PHP,JavaScript,CSS,Responsive Web Design,Page Speed Optimization
+019ab9e130636a855b,Jun 2018,desktop-software-development,50.00,Wordpress Theme,WordPress,Wordpress Plugin,Woocommerce,PHP,JavaScript,CSS,Responsive Web Design,Page Speed Optimization
+019ab9e130636a855b,Mar 2018,desktop-software-development,50.00,Wordpress Theme,WordPress,Wordpress Plugin,Woocommerce,PHP,JavaScript,CSS,Responsive Web Design,Page Speed Optimization
+019ab9e130636a855b,Mar 2018,desktop-software-development,50.00,Wordpress Theme,WordPress,Wordpress Plugin,Woocommerce,PHP,JavaScript,CSS,Responsive Web Design,Page Speed Optimization
+0125a6674a4becf862,Nov 2018,desktop-software-development,40.00,WordPress,HTML,CSS,Website Development,Web Design
+011831e0c358614042,Nov 2018,desktop-software-development,36.75,WordPress,CSS,Web Design,Web Services,Adobe Photoshop,Business Card Design,Brochure Design,Flyer Design,Print Layout Design,Photo Editing
+0114f916f8b743cc68,Nov 2018,desktop-software-development,42.00,WordPress,Responsive Web Design,Memberium,Google Analytics,Google AdWords,CSS3,Landing Pages,Woocommerce,Google Webmaster Central,HTML5
+0114f916f8b743cc68,May 2018,desktop-software-development,35.00,WordPress,Responsive Web Design,Memberium,Google Analytics,Google AdWords,CSS3,Landing Pages,Woocommerce,Google Webmaster Central,HTML5
+0114f916f8b743cc68,Mar 2018,desktop-software-development,20.00,WordPress,Responsive Web Design,Memberium,Google Analytics,Google AdWords,CSS3,Landing Pages,Woocommerce,Google Webmaster Central,HTML5
+0114f916f8b743cc68,Feb 2018,desktop-software-development,35.00,WordPress,Responsive Web Design,Memberium,Google Analytics,Google AdWords,CSS3,Landing Pages,Woocommerce,Google Webmaster Central,HTML5
+0114f916f8b743cc68,Jan 2018,desktop-software-development,30.00,WordPress,Responsive Web Design,Memberium,Google Analytics,Google AdWords,CSS3,Landing Pages,Woocommerce,Google Webmaster Central,HTML5
+019d41b5f642e23f20,Nov 2018,desktop-software-development,50.00,React.js,Node.js,Express Js,MongoDB,JavaScript,WordPress,Umbraco
+019d41b5f642e23f20,Mar 2018,desktop-software-development,10.00,React.js,Node.js,Express Js,MongoDB,JavaScript,WordPress,Umbraco
+0177decff0ec4a3e69,Nov 2018,desktop-software-development,35.00,Java,Python,Python Numpy,Python SciPy,C,Android,Web Scraping,Machine Learning,Artificial Intelligence,Artificial Neural Networks
+0177decff0ec4a3e69,Nov 2017,desktop-software-development,35.00,Java,Python,Python Numpy,Python SciPy,C,Android,Web Scraping,Machine Learning,Artificial Intelligence,Artificial Neural Networks
+01db7bdb99e83b3f46,Nov 2018,desktop-software-development,100.00,Java,Spring Framework,Apache Maven,JUnit,Google Cloud Platform,Amazon Web Services,Unity,C#,JavaScript,HTML
+01db7bdb99e83b3f46,May 2018,desktop-software-development,55.00,Java,Spring Framework,Apache Maven,JUnit,Google Cloud Platform,Amazon Web Services,Unity,C#,JavaScript,HTML
+01db7bdb99e83b3f46,Jun 2018,desktop-software-development,35.00,Java,Spring Framework,Apache Maven,JUnit,Google Cloud Platform,Amazon Web Services,Unity,C#,JavaScript,HTML
+0172c6665df67001da,Nov 2018,desktop-software-development,90.00,PHP,MySQL Administration,Drupal,Ubuntu,Linux System Administration,CentOS,jQuery,Automation,JavaScript,Redis
+0163414a4565245261,Nov 2018,desktop-software-development,65.00,WordPress,Website Development,Search Engine Optimization (SEO),PSD to Wordpress,Responsive Web Design,PHP,Copywriting,Email Marketing,Landing Pages,Genesis Framework
+0163414a4565245261,Jul 2018,desktop-software-development,40.00,WordPress,Website Development,Search Engine Optimization (SEO),PSD to Wordpress,Responsive Web Design,PHP,Copywriting,Email Marketing,Landing Pages,Genesis Framework
+0163414a4565245261,Jan 2018,desktop-software-development,50.00,WordPress,Website Development,Search Engine Optimization (SEO),PSD to Wordpress,Responsive Web Design,PHP,Copywriting,Email Marketing,Landing Pages,Genesis Framework
+0163414a4565245261,Jan 2018,desktop-software-development,50.00,WordPress,Website Development,Search Engine Optimization (SEO),PSD to Wordpress,Responsive Web Design,PHP,Copywriting,Email Marketing,Landing Pages,Genesis Framework
+01a7820571aa253bcd,Nov 2018,desktop-software-development,35.00,Search Engine Optimization (SEO),Volusion,WordPress,Bootstrap,On-Page Optimization,Website Development,Web Design,Off-page Optimization,Woocommerce,Internet Marketing
+01a7820571aa253bcd,Nov 2018,desktop-software-development,40.00,Search Engine Optimization (SEO),Volusion,WordPress,Bootstrap,On-Page Optimization,Website Development,Web Design,Off-page Optimization,Woocommerce,Internet Marketing
+01a7820571aa253bcd,Oct 2018,desktop-software-development,40.00,Search Engine Optimization (SEO),Volusion,WordPress,Bootstrap,On-Page Optimization,Website Development,Web Design,Off-page Optimization,Woocommerce,Internet Marketing
+01a7820571aa253bcd,May 2018,desktop-software-development,32.00,Search Engine Optimization (SEO),Volusion,WordPress,Bootstrap,On-Page Optimization,Website Development,Web Design,Off-page Optimization,Woocommerce,Internet Marketing
+01a7820571aa253bcd,Aug 2018,desktop-software-development,40.00,Search Engine Optimization (SEO),Volusion,WordPress,Bootstrap,On-Page Optimization,Website Development,Web Design,Off-page Optimization,Woocommerce,Internet Marketing
+01a7820571aa253bcd,Jun 2018,desktop-software-development,35.00,Search Engine Optimization (SEO),Volusion,WordPress,Bootstrap,On-Page Optimization,Website Development,Web Design,Off-page Optimization,Woocommerce,Internet Marketing
+012063950baa07b066,Nov 2018,desktop-software-development,60.00,HTML,CSS,JavaScript,Bootstrap,WordPress,Java,jQuery
+012063950baa07b066,Sep 2018,desktop-software-development,60.00,HTML,CSS,JavaScript,Bootstrap,WordPress,Java,jQuery
+012063950baa07b066,Apr 2018,desktop-software-development,55.00,HTML,CSS,JavaScript,Bootstrap,WordPress,Java,jQuery
+012063950baa07b066,Dec 2017,desktop-software-development,45.00,HTML,CSS,JavaScript,Bootstrap,WordPress,Java,jQuery
+012063950baa07b066,Sep 2017,desktop-software-development,37.50,HTML,CSS,JavaScript,Bootstrap,WordPress,Java,jQuery
+017cff120a21b290ba,Nov 2018,desktop-software-development,40.00,Website Development,Search Engine Optimization (SEO),JavaScript,HTML5,PHP,CSS,Responsive Web Design,MySQL Programming,WordPress
+017cff120a21b290ba,Jun 2018,desktop-software-development,40.00,Website Development,Search Engine Optimization (SEO),JavaScript,HTML5,PHP,CSS,Responsive Web Design,MySQL Programming,WordPress
+017cff120a21b290ba,Apr 2018,desktop-software-development,40.00,Website Development,Search Engine Optimization (SEO),JavaScript,HTML5,PHP,CSS,Responsive Web Design,MySQL Programming,WordPress
+0195d64598b6865b73,Nov 2018,desktop-software-development,75.00,Swift,Java,Mobile App Development,iOS Development,iPhone App Development,Android App Development,React Native,Objective-C,Ionic Framework,Xamarin
+0195d64598b6865b73,Nov 2018,desktop-software-development,75.00,Swift,Java,Mobile App Development,iOS Development,iPhone App Development,Android App Development,React Native,Objective-C,Ionic Framework,Xamarin
+0195d64598b6865b73,Oct 2018,desktop-software-development,70.00,Swift,Java,Mobile App Development,iOS Development,iPhone App Development,Android App Development,React Native,Objective-C,Ionic Framework,Xamarin
+0195d64598b6865b73,Sep 2018,desktop-software-development,50.00,Swift,Java,Mobile App Development,iOS Development,iPhone App Development,Android App Development,React Native,Objective-C,Ionic Framework,Xamarin
+01327865797c79c7c9,Nov 2018,desktop-software-development,50.00,WordPress,Woocommerce,PHP,MySQL Programming,PSD to HTML,HTML5,CSS3,JavaScript,jQuery,JSON
+01327865797c79c7c9,Oct 2018,desktop-software-development,50.00,WordPress,Woocommerce,PHP,MySQL Programming,PSD to HTML,HTML5,CSS3,JavaScript,jQuery,JSON
+01327865797c79c7c9,Sep 2018,desktop-software-development,50.00,WordPress,Woocommerce,PHP,MySQL Programming,PSD to HTML,HTML5,CSS3,JavaScript,jQuery,JSON
+01327865797c79c7c9,Jul 2018,desktop-software-development,50.00,WordPress,Woocommerce,PHP,MySQL Programming,PSD to HTML,HTML5,CSS3,JavaScript,jQuery,JSON
+01327865797c79c7c9,Jul 2018,desktop-software-development,50.00,WordPress,Woocommerce,PHP,MySQL Programming,PSD to HTML,HTML5,CSS3,JavaScript,jQuery,JSON
+01a2b698951fa0944a,Nov 2018,desktop-software-development,100.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01a2b698951fa0944a,Aug 2018,desktop-software-development,100.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01a2b698951fa0944a,Mar 2018,desktop-software-development,75.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01a2b698951fa0944a,Mar 2018,desktop-software-development,75.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01a2b698951fa0944a,Aug 2017,desktop-software-development,50.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01a2b698951fa0944a,Oct 2017,desktop-software-development,50.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01a2b698951fa0944a,Aug 2017,desktop-software-development,50.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01a2b698951fa0944a,Sep 2017,desktop-software-development,50.00,WordPress,Search Engine Optimization (SEO),SEO Keyword Research,Frontend Development,On-Page Optimization,SEO Audit,SEOMoz,Screaming Frog SEO Spider,Gravity Forms,Yoast SEO
+01cf30fc284f2c05e1,Nov 2018,desktop-software-development,45.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Oct 2018,desktop-software-development,55.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Jul 2018,desktop-software-development,45.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Apr 2018,desktop-software-development,45.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Mar 2018,desktop-software-development,30.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Jul 2017,desktop-software-development,35.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,May 2017,desktop-software-development,30.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Jul 2017,desktop-software-development,30.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Jul 2017,desktop-software-development,30.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Jun 2017,desktop-software-development,30.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01cf30fc284f2c05e1,Jun 2017,desktop-software-development,30.00,C#,ASP.NET,ASP.NET MVC,jQuery,AJAX,Microsoft SQL Server Programming,Microsoft Entity Framework,Windows Communication Foundation (WCF),SQL Azure
+01ee6c7ba1078298e8,Nov 2018,desktop-software-development,50.00,HTML,XHTML,CSS,WordPress,HTML5,CSS3,PSD to HTML,Adobe Photoshop
+01ee6c7ba1078298e8,May 2018,desktop-software-development,67.50,HTML,XHTML,CSS,WordPress,HTML5,CSS3,PSD to HTML,Adobe Photoshop
+01ee6c7ba1078298e8,Jan 2018,desktop-software-development,25.00,HTML,XHTML,CSS,WordPress,HTML5,CSS3,PSD to HTML,Adobe Photoshop
+01ee6c7ba1078298e8,Jan 2018,desktop-software-development,37.50,HTML,XHTML,CSS,WordPress,HTML5,CSS3,PSD to HTML,Adobe Photoshop
+0146d695245ed38c6a,Nov 2018,desktop-software-development,65.00,Adobe Photoshop,PHP,MySQL Programming,Ubuntu,Windows Administration,JavaScript,Zurb Foundation,CSS3,HTML5,WordPress
+0146d695245ed38c6a,Apr 2018,desktop-software-development,65.00,Adobe Photoshop,PHP,MySQL Programming,Ubuntu,Windows Administration,JavaScript,Zurb Foundation,CSS3,HTML5,WordPress
+0146d695245ed38c6a,Sep 2017,desktop-software-development,65.00,Adobe Photoshop,PHP,MySQL Programming,Ubuntu,Windows Administration,JavaScript,Zurb Foundation,CSS3,HTML5,WordPress
+0146d695245ed38c6a,Aug 2017,desktop-software-development,65.00,Adobe Photoshop,PHP,MySQL Programming,Ubuntu,Windows Administration,JavaScript,Zurb Foundation,CSS3,HTML5,WordPress
+015a185a99ed3ceca7,Nov 2018,desktop-software-development,43.75,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Dec 2017,desktop-software-development,35.00,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Dec 2017,desktop-software-development,35.00,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Jul 2017,desktop-software-development,25.00,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Sep 2018,desktop-software-development,43.75,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Apr 2018,desktop-software-development,48.50,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Dec 2017,desktop-software-development,35.00,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Jun 2017,desktop-software-development,25.00,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Mar 2016,desktop-software-development,16.67,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Jan 2017,desktop-software-development,18.75,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+015a185a99ed3ceca7,Dec 2015,desktop-software-development,16.67,WordPress,SquareSpace,DNS,Domain Migration,Woocommerce,Cloudflare,WordPress e-Commerce,MailChimp,CSS3,HTML5
+0114fa02902e5fb426,Nov 2018,desktop-software-development,85.00,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,Jun 2017,desktop-software-development,75.00,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,May 2013,desktop-software-development,22.22,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,Jul 2013,desktop-software-development,27.40,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,Jul 2013,desktop-software-development,38.36,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,Aug 2013,desktop-software-development,54.79,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,Dec 2013,desktop-software-development,50.00,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,Jun 2014,desktop-software-development,43.84,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0114fa02902e5fb426,Feb 2014,desktop-software-development,43.84,CiviCRM,Joomla,WordPress,Drupal,PHP,BigCommerce,HTML,ColdFusion,SQL Programming,JavaScript
+0172480835212ab344,Nov 2018,desktop-software-development,20.00,Adobe Photoshop,Adobe InDesign,Adobe PDF,Apple iBooks,Prezi,Keynote,HTML5,Print Layout Design,Adobe Edge,VideoScribe
+01abc79ec14ce5e353,Nov 2018,desktop-software-development,38.00,Adobe Illustrator,Adobe Photoshop,Web Design,Adobe Acrobat,Logo Design,Adobe Flash,Graphic Design,Microsoft PowerPoint,Microsoft Excel,WordPress
+01aa5550779dc9de18,Nov 2018,desktop-software-development,50.00,Art Direction,Graphic Design,WordPress,Responsive Web Design,WordPress e-Commerce,Video Production,Shopify,SquareSpace
+01b7e6b8969bc24982,Nov 2018,desktop-software-development,25.00,MVC Framework,ASP.NET Web API,JavaScript,CSS3,HTML5,SQL Programming,Web Services,ASP.NET,Angular 6,LeafletJS
+014c050501bbe6f9f4,Nov 2018,desktop-software-development,50.00,Node.js,Angular 4,React.js,Django,Laravel Framework,PHP,Frontend Development,Next.js,Vue.js,Firebase
+014c050501bbe6f9f4,Jun 2018,desktop-software-development,30.00,Node.js,Angular 4,React.js,Django,Laravel Framework,PHP,Frontend Development,Next.js,Vue.js,Firebase
+01873179d3fb47fdbf,Nov 2018,desktop-software-development,50.00,Mobile UI Design,Mobile App Development,Website Development,Web Design,Node.js,Java,Swift,React Native
+01873179d3fb47fdbf,Oct 2018,desktop-software-development,50.00,Mobile UI Design,Mobile App Development,Website Development,Web Design,Node.js,Java,Swift,React Native
+01df38464d646f2c7a,Nov 2018,desktop-software-development,62.50,Ruby on Rails,Agile Software Development,JavaScript,AngularJS,React.js,Java,Spring Boot,Cloud Foundry,Heroku,Python
+014be17126f3ac4a9e,Nov 2018,desktop-software-development,68.00,HTML,CSS,WordPress,Project Management,Website Development,Responsive Web Design,WordPress e-Commerce
+014be17126f3ac4a9e,Sep 2018,desktop-software-development,68.00,HTML,CSS,WordPress,Project Management,Website Development,Responsive Web Design,WordPress e-Commerce
+014be17126f3ac4a9e,Dec 2017,desktop-software-development,68.00,HTML,CSS,WordPress,Project Management,Website Development,Responsive Web Design,WordPress e-Commerce
+01712210b842b5083c,Nov 2018,desktop-software-development,20.00,Java,JavaScript,Python,CSS3,HTML5,Android,Android Studio,OAuth,SQL,Git
+01fb7203c8f923785b,Nov 2018,desktop-software-development,80.00,JavaScript,React.js,AngularJS,Express Js,Redux Framework,Frontend Development,MongoDB
+0109cb304e3aa9eebf,Nov 2018,desktop-software-development,30.00,WordPress,Woocommerce,Website Development,PHP,HTML,HTML5,CSS,CSS3,JavaScript,jQuery
+019a1d160511d69522,Nov 2018,desktop-software-development,52.00,Editing,Copyediting,Proofreading,Translation French English,Ghostwriting,Creative Writing,Academic Writing,Copywriting,SEO Writing,WordPress
+019a1d160511d69522,Feb 2017,desktop-software-development,32.00,Editing,Copyediting,Proofreading,Translation French English,Ghostwriting,Creative Writing,Academic Writing,Copywriting,SEO Writing,WordPress
+0198a1b4433d6a8e4a,Nov 2018,desktop-software-development,60.00,Oracle PLSQL,Data Modeling,Requirements Analysis,Project Management,HIPAA,Healthcare Information Technology,SaaS,Oracle Forms,Oracle Database,Oracle Upgrade
+015b56a2f663b2008c,Nov 2018,desktop-software-development,40.00,Search Engine Optimization (SEO),Search Engine Marketing (SEM),Mobile UI Design,Responsive Web Design,Mobile Development Framework,Graphic Design
+01fc9dfc9eed0323c3,Nov 2018,desktop-software-development,60.00,Mobile App Development,iOS Development,Android App Development,Blockchain,Cryptocurrency,Laravel Framework,React.js,Bitcore,Python,Ruby on Rails
+014a4a4c9955619b1e,Nov 2018,desktop-software-development,45.00,Responsive Web Design,Web Design,Graphic Design,Ecommerce Platform Development,Logo Design,Animation,Digital Media,Videography,Photography,Advertising
+0168b98a01ef8ffa13,Nov 2018,desktop-software-development,60.00,Chatbot Development,iPhone App Development,JavaScript,Android App Development,WordPress,Facebook Development,Node.js,React.js,JSON,Bot Development
+0168b98a01ef8ffa13,May 2008,desktop-software-development,25.00,Chatbot Development,iPhone App Development,JavaScript,Android App Development,WordPress,Facebook Development,Node.js,React.js,JSON,Bot Development
+01a6db14dda8dd9424,Nov 2018,desktop-software-development,32.00,HTML,CSS3,JavaScript,jQuery,Adobe Illustrator,Adobe Photoshop,Adobe InDesign
+01608e60ad09f7cad3,Nov 2018,desktop-software-development,150.00,Ionic Framework,Node.js,AngularJS,Adobe Illustrator,User Experience Design,Market Research
+01608e60ad09f7cad3,May 2018,desktop-software-development,60.00,Ionic Framework,Node.js,AngularJS,Adobe Illustrator,User Experience Design,Market Research
+0192032781301316c2,Nov 2018,desktop-software-development,70.00,Bootstrap,HTML5,CSS3,React.js,JavaScript,Node.js,Woocommerce,WordPress,Wordpress Theme,Wordpress Plugin
+0192032781301316c2,Oct 2018,desktop-software-development,60.00,Bootstrap,HTML5,CSS3,React.js,JavaScript,Node.js,Woocommerce,WordPress,Wordpress Theme,Wordpress Plugin
+013f145c849c59673e,Nov 2018,desktop-software-development,50.00,React.js,Angular 5,PHP,Node.js,WordPress,ASP.NET Core,Spring Framework,Ethereum,MongoDB,Vue.js
+013f145c849c59673e,Aug 2018,desktop-software-development,60.00,React.js,Angular 5,PHP,Node.js,WordPress,ASP.NET Core,Spring Framework,Ethereum,MongoDB,Vue.js
+013f145c849c59673e,May 2018,desktop-software-development,60.00,React.js,Angular 5,PHP,Node.js,WordPress,ASP.NET Core,Spring Framework,Ethereum,MongoDB,Vue.js
+013f145c849c59673e,May 2018,desktop-software-development,65.00,React.js,Angular 5,PHP,Node.js,WordPress,ASP.NET Core,Spring Framework,Ethereum,MongoDB,Vue.js
+01d52787f5d7e4e37f,Nov 2018,desktop-software-development,50.00,Java,Node.js,React.js,Mobile App Development,Progressive Web Apps,Angular 6,Ionic Framework,Web Design
+01ed1f48409a6b400a,Nov 2018,desktop-software-development,45.00,Pay Per Click,Google AdWords,Google Shopping,Lead Generation,Website Development,Digital Marketing,Facebook Marketing,Search Engine Optimization (SEO),Social Media Marketing,WordPress
+015a20727939db6e6f,Nov 2018,desktop-software-development,35.00,Web Design,CMS Development,WordPress,Shopify,HTML5,CSS,PHP,Adobe Photoshop,Print Design,Corporate Brand Identity
+014eaca6242b15bb73,Nov 2018,desktop-software-development,25.00,Website Development,iPhone App Development,Android App Development,WordPress,OpenCart,Drupal,Software QA Testing,Magento,Node.js,AngularJS
+016a79c54178dd1829,Nov 2018,desktop-software-development,60.00,Microsoft SharePoint Designer,Microsoft SharePoint Development,Microsoft SharePoint Administration,Microsoft SQL Server Administration,Microsoft SQL Server Programming,Microsoft SQL SSAS,Microsoft SQL SSRS,.NET Framework,Microsoft Windows Azure,Microsoft Business Intelligence Studio
+01a1e3de94ea60731c,Nov 2018,desktop-software-development,60.00,JavaScript,React.js,React Native,Angular 5,Vue.js,Node.js,Redux for JavaScript,PHP,Laravel Framework,AWS Application
+015d5efbf6bb02ff03,Nov 2018,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,Jun 2018,desktop-software-development,97.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,Sep 2017,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,Nov 2017,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,Jan 2018,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,Oct 2017,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,SQL 2008,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,Dec 2016,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+015d5efbf6bb02ff03,Oct 2016,desktop-software-development,89.00,VB.NET,ASP.NET,SQL,Database Design,Database Programming,ASP,IBM AS/400 Control Language,Data Mining,Desktop Applications,Web Programming
+011809902177699089,Nov 2018,desktop-software-development,120.00,DevOps,Linux System Administration,Docker,Kubernetes,SaltStack,Amazon Web Services,Microsoft Windows Azure,Black Box Testing,Automation,Network Monitoring
+0181727e26e0b11732,Nov 2018,desktop-software-development,56.00,WordPress,Flask,Python,JavaScript,SQL,Linux System Administration,Oracle Peoplesoft  Administration,OpenBSD
+0181727e26e0b11732,Oct 2018,desktop-software-development,56.00,WordPress,Flask,Python,JavaScript,SQL,Linux System Administration,Oracle Peoplesoft  Administration,OpenBSD
+0181727e26e0b11732,Jul 2018,desktop-software-development,56.00,WordPress,Flask,Python,JavaScript,SQL,Linux System Administration,Oracle Peoplesoft  Administration,OpenBSD
+015f5eeeffbb22f0c7,Nov 2018,desktop-software-development,85.00,WordPress,jQuery,CSS,HTML,PHP
+015f5eeeffbb22f0c7,Oct 2016,desktop-software-development,66.67,WordPress,jQuery,CSS,HTML,PHP
+01b68ac6ff2a769f19,Nov 2018,desktop-software-development,95.00,WordPress,PHP,Linux System Administration,HTML,CSS,MySQL Administration,Bootstrap,Amazon Web Services,LAMP Administration,Laravel Framework
+01b68ac6ff2a769f19,May 2018,desktop-software-development,65.00,WordPress,PHP,Linux System Administration,HTML,CSS,MySQL Administration,Bootstrap,Amazon Web Services,LAMP Administration,Laravel Framework
+01b68ac6ff2a769f19,Oct 2017,desktop-software-development,40.00,WordPress,PHP,Linux System Administration,HTML,CSS,MySQL Administration,Bootstrap,Amazon Web Services,LAMP Administration,Laravel Framework
+01b68ac6ff2a769f19,Oct 2017,desktop-software-development,40.00,WordPress,PHP,Linux System Administration,HTML,CSS,MySQL Administration,Bootstrap,Amazon Web Services,LAMP Administration,Laravel Framework
+01b68ac6ff2a769f19,May 2018,desktop-software-development,65.00,WordPress,PHP,Linux System Administration,HTML,CSS,MySQL Administration,Bootstrap,Amazon Web Services,LAMP Administration,Laravel Framework
+01b68ac6ff2a769f19,Nov 2017,desktop-software-development,60.00,WordPress,PHP,Linux System Administration,HTML,CSS,MySQL Administration,Bootstrap,Amazon Web Services,LAMP Administration,Laravel Framework
+014fb464912e299e48,Nov 2018,desktop-software-development,80.00,JavaScript,Node.js,HTML5,CSS3,MongoDB
+014fb464912e299e48,Mar 2014,desktop-software-development,43.84,JavaScript,Node.js,HTML5,CSS3,MongoDB
+014fb464912e299e48,Mar 2014,desktop-software-development,54.79,JavaScript,Node.js,HTML5,CSS3,MongoDB
+0149f94b09aaaea31a,Nov 2018,desktop-software-development,120.00,React.js,AngularJS,TypeScript,JavaScript,ASP.NET MVC,ASP.NET,DevOps,Webpack,AWS Lambda,Docker
+0149f94b09aaaea31a,May 2018,desktop-software-development,80.00,React.js,AngularJS,TypeScript,JavaScript,ASP.NET MVC,ASP.NET,DevOps,Webpack,AWS Lambda,Docker
+01ac184b63bc469ea2,Nov 2018,desktop-software-development,40.00,WordPress,PHP,Laravel Framework,Shopify,Woocommerce,Google AdWords,Google Tag Manager,Google Analytics,Search Engine Optimization (SEO),HTML5
+01ac184b63bc469ea2,Apr 2018,desktop-software-development,40.00,WordPress,PHP,Laravel Framework,Shopify,Woocommerce,Google AdWords,Google Tag Manager,Google Analytics,Search Engine Optimization (SEO),HTML5
+01ac184b63bc469ea2,Mar 2018,desktop-software-development,70.00,WordPress,PHP,Laravel Framework,Shopify,Woocommerce,Google AdWords,Google Tag Manager,Google Analytics,Search Engine Optimization (SEO),HTML5
+01ac184b63bc469ea2,Mar 2018,desktop-software-development,40.00,WordPress,PHP,Laravel Framework,Shopify,Woocommerce,Google AdWords,Google Tag Manager,Google Analytics,Search Engine Optimization (SEO),HTML5
+01ac184b63bc469ea2,Mar 2018,desktop-software-development,40.00,WordPress,PHP,Laravel Framework,Shopify,Woocommerce,Google AdWords,Google Tag Manager,Google Analytics,Search Engine Optimization (SEO),HTML5
+01ac184b63bc469ea2,Dec 2017,desktop-software-development,18.00,WordPress,PHP,Laravel Framework,Shopify,Woocommerce,Google AdWords,Google Tag Manager,Google Analytics,Search Engine Optimization (SEO),HTML5
+01ac184b63bc469ea2,Dec 2017,desktop-software-development,28.00,WordPress,PHP,Laravel Framework,Shopify,Woocommerce,Google AdWords,Google Tag Manager,Google Analytics,Search Engine Optimization (SEO),HTML5
+015b1032d2938319a8,Nov 2018,desktop-software-development,85.00,Drupal,PHP,Amazon Web Services,Git,LAMP Administration,jQuery,JavaScript,AJAX,MySQL Programming,CSS
+015b1032d2938319a8,Nov 2018,desktop-software-development,50.00,Drupal,PHP,Amazon Web Services,Git,LAMP Administration,jQuery,JavaScript,AJAX,MySQL Programming,CSS
+015b1032d2938319a8,Jun 2018,desktop-software-development,85.00,Drupal,PHP,Amazon Web Services,Git,LAMP Administration,jQuery,JavaScript,AJAX,MySQL Programming,CSS
+015b1032d2938319a8,Aug 2017,desktop-software-development,35.00,Drupal,PHP,Amazon Web Services,Git,LAMP Administration,jQuery,JavaScript,AJAX,MySQL Programming,CSS
+015b1032d2938319a8,May 2018,desktop-software-development,45.00,Drupal,PHP,Amazon Web Services,Git,LAMP Administration,jQuery,JavaScript,AJAX,MySQL Programming,CSS
+015b1032d2938319a8,May 2017,desktop-software-development,35.00,Drupal,PHP,Amazon Web Services,Git,LAMP Administration,jQuery,JavaScript,AJAX,MySQL Programming,CSS
+015b1032d2938319a8,Oct 2016,desktop-software-development,35.00,Drupal,PHP,Amazon Web Services,Git,LAMP Administration,jQuery,JavaScript,AJAX,MySQL Programming,CSS
+014fb464912e299e48,Nov 2018,desktop-software-development,80.00,JavaScript,Node.js,HTML5,CSS3,MongoDB
+014fb464912e299e48,Mar 2014,desktop-software-development,43.84,JavaScript,Node.js,HTML5,CSS3,MongoDB
+014fb464912e299e48,Mar 2014,desktop-software-development,54.79,JavaScript,Node.js,HTML5,CSS3,MongoDB
+01f41bc3283cf5ae90,Nov 2018,desktop-software-development,75.00,Swift,Objective-C,Java,HTML5,CSS,Mobile App Development,iOS Development,Android App Development,React Native,Ionic Framework
+01710fabc5ab147d41,Nov 2018,desktop-software-development,50.00,PHP,Apache Administration,Linux System Administration,Web Services,Network Administration,HTML,MySQL Programming,jQuery,Wordpress Plugin,WordPress
+01c959196dffe16d44,Nov 2018,desktop-software-development,80.00,Amazon Web Services,Amazon EC2,Ubuntu,PHP,MySQL Administration,Web Crawler,Web Scraping,Amazon S3,Amazon Relational Database Service,WordPress
+01746cf1b469d863e5,Nov 2018,desktop-software-development,70.00,SquareSpace,Web Design,Google AdWords,CSS,Startup Consulting,SEO Keyword Research,Creative Strategy,Social Media Management,Internet Research,Google AdWords Development
+01746cf1b469d863e5,Aug 2017,desktop-software-development,45.00,SquareSpace,Web Design,Google AdWords,CSS,Startup Consulting,SEO Keyword Research,Creative Strategy,Social Media Management,Internet Research,Google AdWords Development
+01746cf1b469d863e5,Mar 2018,desktop-software-development,48.00,SquareSpace,Web Design,Google AdWords,CSS,Startup Consulting,SEO Keyword Research,Creative Strategy,Social Media Management,Internet Research,Google AdWords Development
+01746cf1b469d863e5,Oct 2017,desktop-software-development,48.00,SquareSpace,Web Design,Google AdWords,CSS,Startup Consulting,SEO Keyword Research,Creative Strategy,Social Media Management,Internet Research,Google AdWords Development
+01746cf1b469d863e5,Oct 2017,desktop-software-development,48.00,SquareSpace,Web Design,Google AdWords,CSS,Startup Consulting,SEO Keyword Research,Creative Strategy,Social Media Management,Internet Research,Google AdWords Development
+01746cf1b469d863e5,Jul 2017,desktop-software-development,40.00,SquareSpace,Web Design,Google AdWords,CSS,Startup Consulting,SEO Keyword Research,Creative Strategy,Social Media Management,Internet Research,Google AdWords Development
+01746cf1b469d863e5,Jun 2017,desktop-software-development,32.25,SquareSpace,Web Design,Google AdWords,CSS,Startup Consulting,SEO Keyword Research,Creative Strategy,Social Media Management,Internet Research,Google AdWords Development
+0154423b1ccda9e785,Nov 2018,desktop-software-development,60.00,C#,SQL Programming,ASP.NET,Data Modeling,Tableau Software,Microsoft SQL Server Programming,Microsoft SQL SSRS,SQL Server Integration Services (SSIS),Database Programming,Report Writing
+0154423b1ccda9e785,Sep 2018,desktop-software-development,35.00,C#,SQL Programming,ASP.NET,Data Modeling,Tableau Software,Microsoft SQL Server Programming,Microsoft SQL SSRS,SQL Server Integration Services (SSIS),Database Programming,Report Writing
+0154423b1ccda9e785,Feb 2018,desktop-software-development,25.00,C#,SQL Programming,ASP.NET,Data Modeling,Tableau Software,Microsoft SQL Server Programming,Microsoft SQL SSRS,SQL Server Integration Services (SSIS),Database Programming,Report Writing
+0128ae464e34993888,Nov 2018,desktop-software-development,57.50,WordPress,PHP,Wordpress Plugin,JavaScript,HTML,CSS,SQL,WordPress e-Commerce,MySQL Programming
+0128ae464e34993888,May 2018,desktop-software-development,40.00,WordPress,PHP,Wordpress Plugin,JavaScript,HTML,CSS,SQL,WordPress e-Commerce,MySQL Programming
+0128ae464e34993888,Oct 2017,desktop-software-development,21.25,WordPress,PHP,Wordpress Plugin,JavaScript,HTML,CSS,SQL,WordPress e-Commerce,MySQL Programming
+0128ae464e34993888,Oct 2017,desktop-software-development,21.25,WordPress,PHP,Wordpress Plugin,JavaScript,HTML,CSS,SQL,WordPress e-Commerce,MySQL Programming
+0128ae464e34993888,Oct 2017,desktop-software-development,21.25,WordPress,PHP,Wordpress Plugin,JavaScript,HTML,CSS,SQL,WordPress e-Commerce,MySQL Programming
+0128ae464e34993888,Aug 2017,desktop-software-development,20.00,WordPress,PHP,Wordpress Plugin,JavaScript,HTML,CSS,SQL,WordPress e-Commerce,MySQL Programming
+0128ae464e34993888,Jul 2017,desktop-software-development,18.75,WordPress,PHP,Wordpress Plugin,JavaScript,HTML,CSS,SQL,WordPress e-Commerce,MySQL Programming
+01c41f165aae068d68,Nov 2018,desktop-software-development,44.44,SquareSpace,Adobe Photoshop,Graphic Design,Web Design,Logic Pro,Audio Engineering,Creative Writing,Content Writing,Audio Editing,CSS
+0136aae49a2941c17a,Nov 2018,desktop-software-development,65.00,WordPress,PHP,JavaScript,HTML5,CSS3,Woocommerce,WordPress e-Commerce,Responsive Web Design,User Experience Design,Twitter Bootstrap
+0149025008cd321523,Nov 2018,desktop-software-development,65.00,iOS Development,Android,JavaScript,React.js,Node.js,PHP,Unity,Python,SQL,Webpack
+01257e8d443ceafead,Nov 2018,desktop-software-development,50.00,Search Engine Marketing (SEM),Search Engine Optimization (SEO),Ecommerce Platform Development,Lead Generation,Reputation Management,Project Management,Marketing Strategy,ClickFunnels,Google AdWords,Presentation Design
+010a7249c89d9263e2,Nov 2018,desktop-software-development,35.00,HTML5,Graphic Design,CSS3,JavaScript,Content Writing,SEO Writing,Web Design,React.js,Adobe Photoshop,Bootstrap
+01d7a6df848eaa52c6,Nov 2018,desktop-software-development,111.11,Adobe Photoshop,Adobe After Effects,Adobe Illustrator,jQuery,JavaScript,PHP,C#,.NET Compact Framework
+01d7a6df848eaa52c6,Oct 2018,desktop-software-development,60.00,Adobe Photoshop,Adobe After Effects,Adobe Illustrator,jQuery,JavaScript,PHP,C#,.NET Compact Framework
+019db3a5be0bdc7211,Nov 2018,desktop-software-development,76.00,HTML5,JavaScript,PHP,Swift,Android App Development,iOS Development,Website Development,Logo Design
+01bc6ab7d08fc3f858,Nov 2018,desktop-software-development,72.00,HTML5,CSS3,JavaScript,Swift,PHP,AngularJS,WordPress,Sketch,Adobe Photoshop,Adobe Illustrator
+0159fa6d77e41e1c8c,Nov 2018,desktop-software-development,45.00,Mobile UI Design,Web Design,Product Design,User Experience Design,User Interface Design,SaaS,Interaction Design,Website Prototyping,iPad UI Design,Wireframing
+01178fc08a7d265e99,Nov 2018,desktop-software-development,40.00,Graphic Design,Video Editing,Video Production,Video Publishing,Flyer Design,iOS Development,Adobe Illustrator,Apple Xcode,Product Management
+01bf41246a3f5d439b,Nov 2018,desktop-software-development,33.00,WordPress,HTML5,CSS3,JavaScript,Adobe Photoshop,Adobe Illustrator,Java
+01d2bcd186a750cd4e,Nov 2018,desktop-software-development,50.00,Musical Composition,Sound Design,Sound Effects,Logic Pro,HTML5,JavaScript,Video Production,Graphic Design,CSS,WordPress
+01d2bcd186a750cd4e,Mar 2018,desktop-software-development,31.25,Musical Composition,Sound Design,Sound Effects,Logic Pro,HTML5,JavaScript,Video Production,Graphic Design,CSS,WordPress
+01d2bcd186a750cd4e,Jul 2017,desktop-software-development,35.00,Musical Composition,Sound Design,Sound Effects,Logic Pro,HTML5,JavaScript,Video Production,Graphic Design,CSS,WordPress
+01d2bcd186a750cd4e,Apr 2016,desktop-software-development,30.00,Musical Composition,Sound Design,Sound Effects,Logic Pro,HTML5,JavaScript,Video Production,Graphic Design,CSS,WordPress
+01d2bcd186a750cd4e,Apr 2015,desktop-software-development,19.73,Musical Composition,Sound Design,Sound Effects,Logic Pro,HTML5,JavaScript,Video Production,Graphic Design,CSS,WordPress
+01d2bcd186a750cd4e,Jun 2015,desktop-software-development,27.40,Musical Composition,Sound Design,Sound Effects,Logic Pro,HTML5,JavaScript,Video Production,Graphic Design,CSS,WordPress
+01d2bcd186a750cd4e,Feb 2015,desktop-software-development,19.73,Musical Composition,Sound Design,Sound Effects,Logic Pro,HTML5,JavaScript,Video Production,Graphic Design,CSS,WordPress
+014a4f6d43b7e0f563,Nov 2018,desktop-software-development,62.50,Django,Python,Scrapy,Web Scraping,Selenium,Flask,"Extract, Transform and Load (ETL)",Data Mining,Machine Learning
+014a4f6d43b7e0f563,Jun 2018,desktop-software-development,62.50,Django,Python,Scrapy,Web Scraping,Selenium,Flask,"Extract, Transform and Load (ETL)",Data Mining,Machine Learning
+014a4f6d43b7e0f563,Jan 2018,desktop-software-development,75.00,Django,Python,Scrapy,Web Scraping,Selenium,Flask,"Extract, Transform and Load (ETL)",Data Mining,Machine Learning
+014a4f6d43b7e0f563,Jan 2018,desktop-software-development,75.00,Django,Python,Scrapy,Web Scraping,Selenium,Flask,"Extract, Transform and Load (ETL)",Data Mining,Machine Learning
+014a4f6d43b7e0f563,Dec 2017,desktop-software-development,50.00,Django,Python,Scrapy,Web Scraping,Selenium,Flask,"Extract, Transform and Load (ETL)",Data Mining,Machine Learning
+01adbd81f24f85c987,Nov 2018,desktop-software-development,50.00,WordPress,Graphic Design,ASP.NET,HTML,CSS,Sitecore,Responsive Web Design,WordPress e-Commerce,Volusion,PHP
+01adbd81f24f85c987,Aug 2018,desktop-software-development,50.00,WordPress,Graphic Design,ASP.NET,HTML,CSS,Sitecore,Responsive Web Design,WordPress e-Commerce,Volusion,PHP
+01adbd81f24f85c987,Jun 2018,desktop-software-development,35.00,WordPress,Graphic Design,ASP.NET,HTML,CSS,Sitecore,Responsive Web Design,WordPress e-Commerce,Volusion,PHP
+01adbd81f24f85c987,Aug 2018,desktop-software-development,50.00,WordPress,Graphic Design,ASP.NET,HTML,CSS,Sitecore,Responsive Web Design,WordPress e-Commerce,Volusion,PHP
+01adbd81f24f85c987,Mar 2016,desktop-software-development,25.00,WordPress,Graphic Design,ASP.NET,HTML,CSS,Sitecore,Responsive Web Design,WordPress e-Commerce,Volusion,PHP
+01adbd81f24f85c987,Mar 2016,desktop-software-development,25.00,WordPress,Graphic Design,ASP.NET,HTML,CSS,Sitecore,Responsive Web Design,WordPress e-Commerce,Volusion,PHP
+018fde6e259a9bdbec,Nov 2018,desktop-software-development,85.00,WordPress,PHP,HTML,CSS,Unity,Laravel Framework,Game Development,Responsive Web Design,Facebook Development,Social Media Marketing
+018fde6e259a9bdbec,Nov 2017,desktop-software-development,65.00,WordPress,PHP,HTML,CSS,Unity,Laravel Framework,Game Development,Responsive Web Design,Facebook Development,Social Media Marketing
+018fde6e259a9bdbec,Aug 2018,desktop-software-development,85.00,WordPress,PHP,HTML,CSS,Unity,Laravel Framework,Game Development,Responsive Web Design,Facebook Development,Social Media Marketing
+018fde6e259a9bdbec,Jul 2018,desktop-software-development,85.00,WordPress,PHP,HTML,CSS,Unity,Laravel Framework,Game Development,Responsive Web Design,Facebook Development,Social Media Marketing
+018fde6e259a9bdbec,Jun 2017,desktop-software-development,55.00,WordPress,PHP,HTML,CSS,Unity,Laravel Framework,Game Development,Responsive Web Design,Facebook Development,Social Media Marketing
+012253a0fe284441d8,Nov 2018,desktop-software-development,85.00,Adobe Photoshop,WordPress
+012253a0fe284441d8,Aug 2018,desktop-software-development,55.00,Adobe Photoshop,WordPress
+012253a0fe284441d8,Jul 2018,desktop-software-development,55.00,Adobe Photoshop,WordPress
+01658daa4f1f7127a5,Nov 2018,desktop-software-development,41.50,WordPress,HTML5,CSS3,Responsive Web Design,PSD to Wordpress,PSD to HTML,Adobe Dreamweaver,Drupal,Joomla,Adobe Photoshop
+01658daa4f1f7127a5,May 2016,desktop-software-development,16.00,WordPress,HTML5,CSS3,Responsive Web Design,PSD to Wordpress,PSD to HTML,Adobe Dreamweaver,Drupal,Joomla,Adobe Photoshop
+01658daa4f1f7127a5,Jan 2018,desktop-software-development,30.00,WordPress,HTML5,CSS3,Responsive Web Design,PSD to Wordpress,PSD to HTML,Adobe Dreamweaver,Drupal,Joomla,Adobe Photoshop
+01658daa4f1f7127a5,Jul 2016,desktop-software-development,15.00,WordPress,HTML5,CSS3,Responsive Web Design,PSD to Wordpress,PSD to HTML,Adobe Dreamweaver,Drupal,Joomla,Adobe Photoshop
+01a9354243d4c8f18a,Nov 2018,desktop-software-development,50.00,FreeBSD,PHP,MySQL Administration,HTML5,CSS,SSL,Bash Shell Scripting
+01a9354243d4c8f18a,Mar 2018,desktop-software-development,50.00,FreeBSD,PHP,MySQL Administration,HTML5,CSS,SSL,Bash Shell Scripting
+0130b5a3f48c6f4a2c,Nov 2018,desktop-software-development,75.00,JavaScript,Ruby,Facebook Development,d3.js,Responsive Web Design,PHP,Ruby on Rails,Product Management,Google Analytics,Ecommerce Platform Development
+0131681a311f3e3785,Nov 2018,desktop-software-development,45.00,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,May 2013,desktop-software-development,11.11,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,May 2013,desktop-software-development,11.11,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,Mar 2011,desktop-software-development,22.22,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,Jul 2011,desktop-software-development,22.22,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,Sep 2011,desktop-software-development,27.78,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,Nov 2018,desktop-software-development,45.00,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,May 2013,desktop-software-development,11.11,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,May 2013,desktop-software-development,11.11,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,Mar 2011,desktop-software-development,22.22,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,Jul 2011,desktop-software-development,22.22,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+0131681a311f3e3785,Sep 2011,desktop-software-development,27.78,Graphic Design,Frontend Development,CSS,PSD to HTML,jQuery,Website Development,Web Design,Print Design,Shopify
+01e9c49119213a8b3a,Nov 2018,desktop-software-development,31.50,WordPress,Node.js,JavaScript,Propellerhead Reason,SQL,Adobe InDesign,Sound Design,Ruby on Rails,CSS3,Qt
+01afefc96eaac2a534,Nov 2018,desktop-software-development,80.00,Ionic Framework,PHP,MySQL Programming,AngularJS,JavaScript,TypeScript,Linux System Administration,MySQL Administration,Requirements Analysis,Project Management
+0162dc8de6938c267b,Nov 2018,desktop-software-development,100.00,PHP,MySQL Programming,MySQL Administration,Data Warehousing,Database Design,Linux System Administration,Amazon Redshift,Perl,WordPress,Salesforce.com
+0162dc8de6938c267b,Apr 2018,desktop-software-development,100.00,PHP,MySQL Programming,MySQL Administration,Data Warehousing,Database Design,Linux System Administration,Amazon Redshift,Perl,WordPress,Salesforce.com
+01577069b4bf5d5952,Nov 2018,desktop-software-development,30.00,Umbraco,ASP.NET,Microsoft SQL Server Programming,HTML5,jQuery,XSLT,Payment Gateway Integration,Microsoft SQL SSRS,Windows Communication Foundation (WCF),Authorize.Net Development
+01577069b4bf5d5952,Jul 2017,desktop-software-development,25.00,Umbraco,ASP.NET,Microsoft SQL Server Programming,HTML5,jQuery,XSLT,Payment Gateway Integration,Microsoft SQL SSRS,Windows Communication Foundation (WCF),Authorize.Net Development
+01577069b4bf5d5952,Jun 2015,desktop-software-development,22.00,Umbraco,ASP.NET,Microsoft SQL Server Programming,HTML5,jQuery,XSLT,Payment Gateway Integration,Microsoft SQL SSRS,Windows Communication Foundation (WCF),Authorize.Net Development
+01577069b4bf5d5952,Nov 2014,desktop-software-development,18.00,Umbraco,ASP.NET,Microsoft SQL Server Programming,HTML5,jQuery,XSLT,Payment Gateway Integration,Microsoft SQL SSRS,Windows Communication Foundation (WCF),Authorize.Net Development
+01577069b4bf5d5952,Mar 2015,desktop-software-development,20.00,Umbraco,ASP.NET,Microsoft SQL Server Programming,HTML5,jQuery,XSLT,Payment Gateway Integration,Microsoft SQL SSRS,Windows Communication Foundation (WCF),Authorize.Net Development
+01577069b4bf5d5952,Dec 2014,desktop-software-development,8.00,Umbraco,ASP.NET,Microsoft SQL Server Programming,HTML5,jQuery,XSLT,Payment Gateway Integration,Microsoft SQL SSRS,Windows Communication Foundation (WCF),Authorize.Net Development
+013351483ee0c86748,Nov 2018,desktop-software-development,65.00,J2EE,PHP,JSP,Spring Framework,AJAX,MySQL Administration,JavaScript,AngularJS,jQuery,Symfony
+013351483ee0c86748,Aug 2018,desktop-software-development,65.00,J2EE,PHP,JSP,Spring Framework,AJAX,MySQL Administration,JavaScript,AngularJS,jQuery,Symfony
+013351483ee0c86748,May 2017,desktop-software-development,30.00,J2EE,PHP,JSP,Spring Framework,AJAX,MySQL Administration,JavaScript,AngularJS,jQuery,Symfony
+0177f6f4fa366accfe,Nov 2018,desktop-software-development,125.00,HTML,PHP,MySQL Administration,WordPress,jQuery,CSS,JavaScript,Google Analytics,OpenCart,Google Tag Manager
+0177f6f4fa366accfe,May 2018,desktop-software-development,125.00,HTML,PHP,MySQL Administration,WordPress,jQuery,CSS,JavaScript,Google Analytics,OpenCart,Google Tag Manager
+0177f6f4fa366accfe,May 2017,desktop-software-development,75.00,HTML,PHP,MySQL Administration,WordPress,jQuery,CSS,JavaScript,Google Analytics,OpenCart,Google Tag Manager
+0177f6f4fa366accfe,Jul 2012,desktop-software-development,25.00,HTML,PHP,MySQL Administration,WordPress,jQuery,CSS,JavaScript,Google Analytics,OpenCart,Google Tag Manager
+0177f6f4fa366accfe,Jan 2012,desktop-software-development,33.33,HTML,PHP,MySQL Administration,WordPress,jQuery,CSS,JavaScript,Google Analytics,OpenCart,Google Tag Manager
+0177f6f4fa366accfe,Jan 2012,desktop-software-development,33.33,HTML,PHP,MySQL Administration,WordPress,jQuery,CSS,JavaScript,Google Analytics,OpenCart,Google Tag Manager
+0177f6f4fa366accfe,Dec 2011,desktop-software-development,33.33,HTML,PHP,MySQL Administration,WordPress,jQuery,CSS,JavaScript,Google Analytics,OpenCart,Google Tag Manager
+01532f64e769b5a8bb,Nov 2018,desktop-software-development,40.00,CSS,XHTML,HTML,WordPress,PHP,ColdFusion,SQL,MySQL Administration,Search Engine Optimization (SEO),Photography
+01532f64e769b5a8bb,Sep 2010,desktop-software-development,33.33,CSS,XHTML,HTML,WordPress,PHP,ColdFusion,SQL,MySQL Administration,Search Engine Optimization (SEO),Photography
+01532f64e769b5a8bb,Oct 2008,desktop-software-development,20.00,CSS,XHTML,HTML,WordPress,PHP,ColdFusion,SQL,MySQL Administration,Search Engine Optimization (SEO),Photography
+01532f64e769b5a8bb,Jan 2009,desktop-software-development,20.00,CSS,XHTML,HTML,WordPress,PHP,ColdFusion,SQL,MySQL Administration,Search Engine Optimization (SEO),Photography
+01281a9e47c87c140a,Nov 2018,desktop-software-development,50.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01281a9e47c87c140a,Oct 2018,desktop-software-development,45.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01281a9e47c87c140a,Jul 2018,desktop-software-development,25.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01281a9e47c87c140a,Sep 2018,desktop-software-development,50.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01281a9e47c87c140a,Aug 2018,desktop-software-development,25.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01281a9e47c87c140a,Jun 2018,desktop-software-development,45.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01281a9e47c87c140a,Apr 2018,desktop-software-development,35.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01281a9e47c87c140a,Apr 2018,desktop-software-development,35.00,Adobe Photoshop,Website Development,Image Processing,Logo Design,Brochure Design,Internet Marketing,Web Design,WordPress,Shopify,Email Marketing
+01ba8e941fd30e14a0,Nov 2018,desktop-software-development,45.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,Oct 2018,desktop-software-development,42.50,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,Sep 2018,desktop-software-development,35.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,Jul 2018,desktop-software-development,32.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,Jun 2018,desktop-software-development,35.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,Jun 2018,desktop-software-development,30.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,May 2018,desktop-software-development,30.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,Apr 2018,desktop-software-development,25.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+01ba8e941fd30e14a0,Mar 2018,desktop-software-development,30.00,WordPress,HTML5,CSS3,JavaScript,PHP,Bootstrap,Website Development,Blog Writing,Curriculum Development,Shopify
+0180701802dd0eed10,Nov 2018,desktop-software-development,25.00,Graphic Design,Website Development,Responsive Web Design,Internet Marketing,Logo Design,Mobile UI Design,Adobe Photoshop,Adobe Illustrator,WordPress,Magento 2
+01e71dde8f41f3ce0b,Nov 2018,desktop-software-development,30.00,Web Design,HTML5,CSS3,Bootstrap,WordPress,JavaScript,jQuery,Responsive Web Design
+01e3b2064628c88c61,Nov 2018,desktop-software-development,100.00,CSS3,HTML5,JavaScript,React.js,PSD to HTML,PSD2CMS,PSD to Wordpress,Sketch,Node.js,PHP
+01f4d26e1369e149dc,Nov 2018,desktop-software-development,60.00,React.js,JavaScript,Redux for JavaScript,AngularJS,Vue.js,Amazon EC2,Node.js,Django,Express Js,MongoDB
+01997a95debfff0eae,Nov 2018,desktop-software-development,70.00,WebGL,3D Modeling,3D Rendering,3D Animation,JavaScript,HTML5 Canvas,CSS3,Three.js,3D Design,Adobe After Effects
+01997a95debfff0eae,Mar 2018,desktop-software-development,70.00,WebGL,3D Modeling,3D Rendering,3D Animation,JavaScript,HTML5 Canvas,CSS3,Three.js,3D Design,Adobe After Effects
+017ae8dc1859e1ff06,Nov 2018,desktop-software-development,45.00,Instructional Design,Curriculum Development,Articulate Storyline,Storyboarding,Presentation Design,Proofreading,Data Analytics,Copywriting,e-Learning,Transcription
+0129f4acebe08b96d2,Nov 2018,desktop-software-development,70.00,Frontend Development,API Development,Angular 6,React.js,Mobile App Development
+01b0f722c783c7a8d8,Nov 2018,desktop-software-development,65.00,JavaScript,Laravel Framework,React.js,PHP,WordPress,HTML5,CSS3,Twitter Bootstrap,Pay Per Click Advertising,Shopify
+01b0f722c783c7a8d8,Jun 2018,desktop-software-development,20.00,JavaScript,Laravel Framework,React.js,PHP,WordPress,HTML5,CSS3,Twitter Bootstrap,Pay Per Click Advertising,Shopify
+01bf0fe7b637c1cb33,Nov 2018,desktop-software-development,50.00,HTML5,Banner Ads,Animation,Banner Ad Design,Motion Graphics,Adobe After Effects,Display Ads,Adobe Flash,2D Animation,Graphic Design
+01bf0fe7b637c1cb33,Jul 2018,desktop-software-development,50.00,HTML5,Banner Ads,Animation,Banner Ad Design,Motion Graphics,Adobe After Effects,Display Ads,Adobe Flash,2D Animation,Graphic Design
+01bf0fe7b637c1cb33,Jan 2018,desktop-software-development,50.00,HTML5,Banner Ads,Animation,Banner Ad Design,Motion Graphics,Adobe After Effects,Display Ads,Adobe Flash,2D Animation,Graphic Design
+01bf0fe7b637c1cb33,Jan 2017,desktop-software-development,50.00,HTML5,Banner Ads,Animation,Banner Ad Design,Motion Graphics,Adobe After Effects,Display Ads,Adobe Flash,2D Animation,Graphic Design
+01669f73cdeb43b640,Nov 2018,desktop-software-development,72.00,Startup Consulting,Microsoft SQL Server Programming,Microsoft Excel,DNS,Amazon EC2,Network Administration,Internet Security,Windows 8 Administration,C#,MySQL Administration
+01a572700e7f88ff41,Nov 2018,desktop-software-development,40.00,HTML,HTML5,JavaScript,CSS3,CSS,PHP,WordPress,XenForo
+01a572700e7f88ff41,Aug 2018,desktop-software-development,30.00,HTML,HTML5,JavaScript,CSS3,CSS,PHP,WordPress,XenForo
+01a572700e7f88ff41,Aug 2018,desktop-software-development,40.00,HTML,HTML5,JavaScript,CSS3,CSS,PHP,WordPress,XenForo
+01678661f791c138cf,Nov 2018,desktop-software-development,45.00,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,Jan 2016,desktop-software-development,22.22,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,Oct 2015,desktop-software-development,22.22,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,May 2016,desktop-software-development,22.22,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,May 2016,desktop-software-development,22.22,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,Feb 2016,desktop-software-development,22.22,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,Oct 2015,desktop-software-development,21.92,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,Sep 2015,desktop-software-development,21.92,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,May 2015,desktop-software-development,21.92,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,Dec 2014,desktop-software-development,21.92,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01678661f791c138cf,Feb 2015,desktop-software-development,21.92,WordPress,PHP,MySQL Administration,CSS3,CSS,HTML5,Website Development,PSD to Wordpress,jQuery,JQuery Mobile
+01ec20b514fd86278a,Nov 2018,desktop-software-development,43.05,WordPress,Responsive Web Design,Agile Software Development,Human Resource Management,Agile Project Management,Product Management
+01ec20b514fd86278a,Sep 2014,desktop-software-development,11.11,WordPress,Responsive Web Design,Agile Software Development,Human Resource Management,Agile Project Management,Product Management
+01ec20b514fd86278a,Sep 2018,desktop-software-development,30.00,WordPress,Responsive Web Design,Agile Software Development,Human Resource Management,Agile Project Management,Product Management
+01518828ead02559aa,Nov 2018,desktop-software-development,75.00,Project Management,Business Analysis,Agile Project Management,SAP ERP,Software Testing,Risk Assessment,Information Security,Articulate Storyline,Moodle,Adobe Captivate
+01518828ead02559aa,May 2018,desktop-software-development,65.00,Project Management,Business Analysis,Agile Project Management,SAP ERP,Software Testing,Risk Assessment,Information Security,Articulate Storyline,Moodle,Adobe Captivate
+0121393c8a99dba48e,Nov 2018,desktop-software-development,55.00,WiX,Facebook Marketing,Social Media Marketing
+0121393c8a99dba48e,Apr 2018,desktop-software-development,55.00,WiX,Facebook Marketing,Social Media Marketing
+0121393c8a99dba48e,Dec 2017,desktop-software-development,30.00,WiX,Facebook Marketing,Social Media Marketing
+0121393c8a99dba48e,Jan 2018,desktop-software-development,30.00,WiX,Facebook Marketing,Social Media Marketing
+0121393c8a99dba48e,Jan 2018,desktop-software-development,32.00,WiX,Facebook Marketing,Social Media Marketing
+0121393c8a99dba48e,Mar 2018,desktop-software-development,40.00,WiX,Facebook Marketing,Social Media Marketing
+0121393c8a99dba48e,Feb 2018,desktop-software-development,32.00,WiX,Facebook Marketing,Social Media Marketing
+0121393c8a99dba48e,Nov 2017,desktop-software-development,30.00,WiX,Facebook Marketing,Social Media Marketing
+0128d8938152fa53f7,Nov 2018,desktop-software-development,90.00,ASP.NET MVC,AngularJS,HTML5,JavaScript,C#,SQL,API Development,Microsoft Windows Azure,Twilio API,Stripe
+0128d8938152fa53f7,Mar 2015,desktop-software-development,39.00,ASP.NET MVC,AngularJS,HTML5,JavaScript,C#,SQL,API Development,Microsoft Windows Azure,Twilio API,Stripe
+0128d8938152fa53f7,Sep 2015,desktop-software-development,59.00,ASP.NET MVC,AngularJS,HTML5,JavaScript,C#,SQL,API Development,Microsoft Windows Azure,Twilio API,Stripe
+0128d8938152fa53f7,Dec 2014,desktop-software-development,39.00,ASP.NET MVC,AngularJS,HTML5,JavaScript,C#,SQL,API Development,Microsoft Windows Azure,Twilio API,Stripe
+0128d8938152fa53f7,Jan 2014,desktop-software-development,10.00,ASP.NET MVC,AngularJS,HTML5,JavaScript,C#,SQL,API Development,Microsoft Windows Azure,Twilio API,Stripe
+01f4f3ab9d459abd3c,Nov 2018,desktop-software-development,100.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Aug 2017,desktop-software-development,80.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Oct 2016,desktop-software-development,65.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Mar 2016,desktop-software-development,65.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Dec 2016,desktop-software-development,75.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Oct 2016,desktop-software-development,65.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Jul 2016,desktop-software-development,65.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Apr 2016,desktop-software-development,65.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Mar 2016,desktop-software-development,55.00,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django
+01f4f3ab9d459abd3c,Mar 2010,desktop-software-development,27.78,PHP,JavaScript,jQuery,CSS,HTML,SQL,WordPress,ColdFusion,Responsive Web Design,Django

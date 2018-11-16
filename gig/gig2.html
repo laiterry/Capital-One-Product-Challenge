@@ -1,0 +1,433 @@
+<!doctype html>
+<html>
+<head>
+  <title>Gig Advisor Page 2</title>
+  <link href="gig2.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <a href="gig.html" class="button">Back</a>
+    Tell us about yourself
+  </header>
+
+  <main>
+    <div class="questions">
+      <form id="myform"  method="post">
+        <input type="hidden">
+        <div class="selectwork">
+          <p>What is your current line of work?<br></p>
+          <div class="selection">
+            <input type="radio" id="graphic" name="work" required>
+            <label for="graphic" class="check">Graphic Design</label>
+          </div>
+          <div class="selection">
+            <input type="radio" id="software" name="work" required>
+            <label for="software" class="check">Software Development</label>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate earnings the past 3 months?<br></p>
+          <div class="earnings">
+            <div>
+              <label for="earningsmonth1">August: </label><input type="text" name="earningsmonth1" id="earningsmonth1" class="month" required> dollars
+            </div>
+            <div>
+              <label for="earningsmonth2">September: </label><input type="text" name="earningsmonth2" id="earningsmonth2" class="month" required> dollars
+            </div>
+            <div>
+              <label for="earningsmonth3">October: </label><input type="text" name="earningsmonth3" id="earningsmonth3" class="month" required> dollars
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate hours worked the past 3 months?<br></p>
+          <div class="hours">
+            <div>
+              <label for="hoursmonth1">August: </label><input type="text" name="hoursmonth1" id="hoursmonth1" class="month" required> hours
+            </div>
+            <div>
+              <label for="hoursmonth2">September: </label><input type="text" name="hoursmonth2" id="hoursmonth2" class="month" required> hours
+            </div>
+            <div>
+              <label for="hoursmonth3">October: </label><input type="text" name="hoursmonth3" id="hoursmonth3" class="month" required> hours<br>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>Which skills do you have?<br></p>
+          <div class="selection">
+            <input type="checkbox" id="python" name="skill">
+            <label for="python" class="check">Python</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="html" name="skill">
+            <label for="html" class="check">HTML</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="javascript" name="skill">
+            <label for="javascript" class="check">JavaScript</label>
+          </div>
+        </div>
+        <div class="continue">
+          <button type="button" id="btn">Continue</button>
+
+          <!--<input type="button" value="Continue" >-->
+        </div>
+      </form>
+    </div>
+  </main>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript">
+          var form = document.getElementById('myform');
+          var btn = document.getElementById('btn');
+          btn.onclick = function(){
+            var earningsmonth1 = document.getElementById("earningsmonth1").value;
+            var earningsmonth2 = document.getElementById("earningsmonth2").value;
+            var earningsmonth3 = document.getElementById("earningsmonth3").value;
+
+            var hoursmonth1 = document.getElementById("hoursmonth1").value;
+            var hoursmonth2 = document.getElementById("hoursmonth2").value;
+            var hoursmonth3 = document.getElementById("hoursmonth3").value;
+
+              var graphic = document.getElementById("graphic").checked;
+            var software = document.getElementById("software").checked;
+
+            var python = document.getElementById("python").checked;
+            var html = document.getElementById("html").checked;
+            var javascript = document.getElementById("javascript").checked;
+
+              console.log("Sample log");
+
+    $.ajax({
+       url:"http://10.132.129.94:8383/predict/",
+       type:"post",
+       data:{
+          "earningsmonth1":earningsmonth1,
+           "earningsmonth2": earningsmonth2,
+           "earningsmonth3": earningsmonth3,
+           "hoursmonth1": hoursmonth1,
+           "hoursmonth2": hoursmonth2,
+           "hoursmonth3": hoursmonth3,
+           "graphic": graphic,
+           "software": software,
+           "python": python,
+           "html": html,
+           "javascript": javascript
+        },
+       dataType:"json",
+      async:false,
+      success: function (data) {
+          //alert('good');
+          var id = data.taskid;
+          var url = "gig3.html?id="+id;
+        window.location.href=url;
+       },
+      error: function (jqXHR, textStatus, errorThrown) {
+            /*弹出jqXHR对象的信息*/
+            alert(jqXHR.responseText);
+            alert(jqXHR.status);
+            alert(jqXHR.readyState);
+            alert(jqXHR.statusText);
+            /*弹出其他两个参数的信息*/
+            alert(textStatus);
+            alert(errorThrown);
+        }
+   });
+
+
+    }
+
+        </script>
+
+</body>
+</html>
+
+
+
+<!-- <!doctype html>
+<html>
+<head>
+  <title>Gig Advisor Page 2</title>
+  <link href="gig2.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <a href="gig.html" class="button">Back</a>
+    Tell us about yourself
+  </header>
+
+  <main>
+    <div class="questions">
+      <form action="http://10.132.129.94:8383/predict/" method="post">
+        <input type="hidden" name="redirect" value="gig3.html">
+        <div class="selectwork">
+          <p>What is your current line of work?<br></p>
+          <div class="selection">
+            <input type="radio" id="graphic" name="work" required>
+            <label for="graphic" class="check">Graphic Design</label>
+          </div>
+          <div class="selection">
+            <input type="radio" id="software" name="work" required>
+            <label for="software" class="check">Software Development</label>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate earnings the past 3 months?<br></p>
+          <div class="earnings">
+            <div>
+              <label for="earningsmonth1">August: </label><input type="text" name="earningsmonth1" id="earningsmonth1" class="month" required>
+            </div>
+            <div>
+              <label for="earningsmonth2">September: </label><input type="text" name="earningsmonth2" id="earningsmonth2" class="month" required>
+            </div>
+            <div>
+              <label for="earningsmonth3">October: </label><input type="text" name="earningsmonth3" id="earningsmonth3" class="month" required>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate hours worked the past 3 months?<br></p>
+          <div class="hours">
+            <div>
+              <label for="hoursmonth1">August: </label><input type="text" name="hoursmonth1" id="earningsmonth1" class="month" required>
+            </div>
+            <div>
+              <label for="hoursmonth2">September: </label><input type="text" name="hoursmonth2" id="earningsmonth2" class="month" required>
+            </div>
+            <div>
+              <label for="hoursmonth3">Month 3: </label><input type="text" name="hoursmonth3" id="earningsmonth3" class="month" required><br>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>Which skills do you have?<br></p>
+          <div class="selection">
+            <input type="checkbox" id="python" name="skill">
+            <label for="python" class="check">Python</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="r" name="skill">
+            <label for="r" class="check">R</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="javascript" name="skill">
+            <label for="javascript" class="check">JavaScript</label>
+          </div>
+        </div>
+        <div class="continue">
+          <input type="submit" value="Continue">
+        </div>
+      </form>
+    </div>
+  </main>
+</body>
+</html> -->
+
+
+<!-- <!doctype html>
+<html>
+<head>
+  <title>Gig Advisor Page 2</title>
+  <link href="gig2.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <a href="gig.html" class="button">Back</a>
+    Tell us about yourself
+  </header>
+
+  <main>
+    <div class="questions">
+      <form id="myform"  method="post">
+        <input type="hidden" name="redirect" value="gig3.html">
+        <div class="selectwork">
+          <p>What is your current line of work?<br></p>
+          <div class="selection">
+            <input type="radio" id="graphic" name="work" required>
+            <label for="graphic" class="check">Graphic Design</label>
+          </div>
+          <div class="selection">
+            <input type="radio" id="software" name="work" required>
+            <label for="software" class="check">Software Development</label>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate earnings the past 3 months?<br></p>
+          <div class="earnings">
+            <div>
+              <label for="earningsmonth1">August: </label><input type="text" name="earningsmonth1" id="earningsmonth1" class="month" required> dollars
+            </div>
+            <div>
+              <label for="earningsmonth2">September: </label><input type="text" name="earningsmonth2" id="earningsmonth2" class="month" required> dollars
+            </div>
+            <div>
+              <label for="earningsmonth3">October: </label><input type="text" name="earningsmonth3" id="earningsmonth3" class="month" required> dollars
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate hours worked the past 3 months?<br></p>
+          <div class="hours">
+            <div>
+              <label for="hoursmonth1">August: </label><input type="text" name="hoursmonth1" id="hoursmonth1" class="month" required> hours
+            </div>
+            <div>
+              <label for="hoursmonth2">September: </label><input type="text" name="hoursmonth2" id="hoursmonth2" class="month" required> hours
+            </div>
+            <div>
+              <label for="hoursmonth3">October: </label><input type="text" name="hoursmonth3" id="hoursmonth3" class="month" required> hours<br>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>Which skills do you have?<br></p>
+          <div class="selection">
+            <input type="checkbox" id="python" name="skill">
+            <label for="python" class="check">Python</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="r" name="skill">
+            <label for="r" class="check">R</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="javascript" name="skill">
+            <label for="javascript" class="check">JavaScript</label>
+          </div>
+        </div>
+        <div class="continue">
+          <input type="submit" value="Continue">
+        </div>
+      </form>
+    </div>
+  </main>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript">
+            var form = document.getElementById('myform');
+            form.onsubmit = function(){
+            var earningsmonth1 = document.getElementsByName("earningsmonth1").value;
+            var earningsmonth2 = document.getElementsByName("earningsmonth2").value;
+            var earningsmonth3 = document.getElementsByName("earningsmonth3").value;
+
+            var hoursmonth1 = document.getElementsByName("hoursmonth1").value;
+            var hoursmonth2 = document.getElementsByName("hoursmonth2").value;
+            var hoursmonth3 = document.getElementsByName("hoursmonth3").value;
+
+
+    $.ajax({
+       url:"http://10.132.129.94:8383/predict/",
+       type:"post",
+       data:{
+           "earningsmonth1":earningsmonth1,
+           "earningsmonth2": earningsmonth2,
+           "earningsmonth3": earningsmonth3
+        },
+       dataType:"json",
+       success: function (data) {
+          // alert('good');
+          window.location.href="gig3.html?abc=123";
+
+        },
+      error: function (jqXHR, textStatus, errorThrown) {
+            /*弹出jqXHR对象的信息*/
+            alert(jqXHR.responseText);
+            alert(jqXHR.status);
+            alert(jqXHR.readyState);
+            alert(jqXHR.statusText);
+            /*弹出其他两个参数的信息*/
+            alert(textStatus);
+            alert(errorThrown);
+        }
+   });
+
+
+    }
+
+        </script>
+
+</body>
+</html>
+
+
+
+<!-- <!doctype html>
+<html>
+<head>
+  <title>Gig Advisor Page 2</title>
+  <link href="gig2.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <a href="gig.html" class="button">Back</a>
+    Tell us about yourself
+  </header>
+
+  <main>
+    <div class="questions">
+      <form action="http://10.132.129.94:8383/predict/" method="post">
+        <input type="hidden" name="redirect" value="gig3.html">
+        <div class="selectwork">
+          <p>What is your current line of work?<br></p>
+          <div class="selection">
+            <input type="radio" id="graphic" name="work" required>
+            <label for="graphic" class="check">Graphic Design</label>
+          </div>
+          <div class="selection">
+            <input type="radio" id="software" name="work" required>
+            <label for="software" class="check">Software Development</label>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate earnings the past 3 months?<br></p>
+          <div class="earnings">
+            <div>
+              <label for="earningsmonth1">August: </label><input type="text" name="earningsmonth1" id="earningsmonth1" class="month" required>
+            </div>
+            <div>
+              <label for="earningsmonth2">September: </label><input type="text" name="earningsmonth2" id="earningsmonth2" class="month" required>
+            </div>
+            <div>
+              <label for="earningsmonth3">October: </label><input type="text" name="earningsmonth3" id="earningsmonth3" class="month" required>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>What were your approximate hours worked the past 3 months?<br></p>
+          <div class="hours">
+            <div>
+              <label for="hoursmonth1">August: </label><input type="text" name="hoursmonth1" id="earningsmonth1" class="month" required>
+            </div>
+            <div>
+              <label for="hoursmonth2">September: </label><input type="text" name="hoursmonth2" id="earningsmonth2" class="month" required>
+            </div>
+            <div>
+              <label for="hoursmonth3">Month 3: </label><input type="text" name="hoursmonth3" id="earningsmonth3" class="month" required><br>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>Which skills do you have?<br></p>
+          <div class="selection">
+            <input type="checkbox" id="python" name="skill">
+            <label for="python" class="check">Python</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="r" name="skill">
+            <label for="r" class="check">R</label>
+          </div>
+          <div class="selection">
+            <input type="checkbox" id="javascript" name="skill">
+            <label for="javascript" class="check">JavaScript</label>
+          </div>
+        </div>
+        <div class="continue">
+          <input type="submit" value="Continue">
+        </div>
+      </form>
+    </div>
+  </main>
+</body>
+</html> --> -->

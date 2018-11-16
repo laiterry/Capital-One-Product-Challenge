@@ -1,0 +1,7 @@
+016d530cd56570bfbc,Oct 2018,web-mobile-software-dev,85.00
+016d530cd56570bfbc,Aug 2018,web-mobile-software-dev,85.00
+016d530cd56570bfbc,Jul 2018,web-mobile-software-dev,85.00
+016d530cd56570bfbc,Aug 2018,web-mobile-software-dev,85.00
+016d530cd56570bfbc,Aug 2018,web-mobile-software-dev,50.00
+016d530cd56570bfbc,Aug 2018,web-mobile-software-dev,75.00
+016d530cd56570bfbc,Jul 2018,web-mobile-software-dev,50.00

@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #00c979;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Avenir Next';
+  font-size: 60px;
+  font-weight: 300;
+  display: grid;
+  grid-template-columns: 1fr 9fr 1fr;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  overflow: hidden;
+  height: 95px;
+}
+
+main {
+  font-family: 'Avenir Next';
+  font-size: 30px;
+  padding: 80px;
+  margin-top: 60px;
+}
+
+.button {
+  background-color: none;
+  border: 2px solid white;
+  color: white;
+  padding: 5px 10px;
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  width: 75%;
+  line-height: 40px;
+  height: 40px;
+}
+
+.button:hover {
+  background-color: white;
+  color: #00c979;
+}
+
+.earnings, .hours {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+select {
+  font-family: 'Avenir Next';
+  font-size: 30px;
+  height: 50px;
+}
+
+.month {
+  height: 40px;
+  font-size: 20px;
+  width: 100px;
+  text-align: right;
+}
+
+input[type=checkbox] {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+  background: white;
+  border-radius: 1px;
+  border: 2px solid black;
+  transition: all .3s linear;
+}
+
+input[type="checkbox"]:checked{
+  background-color: #c21756;
+}
+
+input[type="checkbox"]:focus{
+  outline: 0 none;
+  box-shadow: none;
+}
+
+input[type=radio] {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+  background: white;
+  border-radius: 50%;
+  border: 2px solid black;
+  transition: all .3s linear;
+}
+
+input[type="radio"]:checked{
+  background-color: #c21756;
+}
+
+input[type="radio"]:focus{
+  outline: 0 none;
+  box-shadow: none;
+}
+
+button[type=button] {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: white;
+  border: 2px solid #c21756;
+  color: #c21756;
+  padding: 5px 10px;
+  font-size: 22px;
+  font-weight: 400;
+  border-radius: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 150px;
+  line-height: 40px;
+  height: 70px;
+  font-family: 'Avenir Next';
+  cursor: pointer;
+}
+
+button[type=button]:hover {
+  background-color: #c21756;
+  color: white;
+}
+
+.continue {
+  float: right;
+}
+
+.check {
+  vertical-align: top;
+}
+
+.selection {
+  font-size: 25px;
+  margin-left: 25px;
+}

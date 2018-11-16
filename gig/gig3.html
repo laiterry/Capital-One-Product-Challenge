@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+  <title>Gig Advisor Page 3</title>
+  <link href="gig3.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <a href="gig2.html" class="button">Back</a>
+    <p>You could be making <span id="rate"></span> %  more an hour </p>
+  </header>
+
+  <main>
+    <div>
+      Skills that could earn you more
+    </div>
+    <div class="skillgroup">
+      <button id='skill1' class="skills">Skill 1</button>
+      <div class="content">
+        <p id="skill1course1">Course 1</p>
+        <p id="skill1course2">Course 2</p>
+        <p id="skill1course3">Course 3</p>
+      </div>
+      <hr>
+      <button id='skill2' class="skills">Skill 2</button>
+      <div class="content">
+        <p id="skill2course1">Course 1</p>
+        <p id="skill2course2">Course 2</p>
+        <p id="skill2course3">Course 3</p>
+      </div>
+      <hr>
+      <button id='skill3' class="skills">Skill 3</button>
+      <div class="content">
+        <p id="skill3course1">Course 1</p>
+        <p id="skill3course2">Course 2</p>
+        <p id="skill3course3">Course 3</p>
+      </div>
+    </div>
+    <div>
+      <a href="gig4.html" class="continue">
+        Continue to cost-benefit analysis
+      </a>
+    </div>
+  </main>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+  <script>
+
+    function GetQueryString(name)
+    {
+      var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+      var r = window.location.search.substr(1).match(reg);
+      if(r!=null)return  unescape(r[2]); return null;
+    }
+
+  var coll = document.getElementsByClassName("skills");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+
+    var id = GetQueryString("id");
+  if (id) {
+    $.ajax({
+      url:"http://10.132.129.94:8383/get_result/",
+      type:"post",
+      data:{
+        "taskid":id
+      },
+      dataType:"json",
+      async:false,
+      success: function (data) {
+        //alert('good');
+        console.log(data);
+        if(data.ret){
+
+          skills = data.ret.skills;
+          rate = data.ret.rate;
+          courses = data.ret.courses;
+          document.getElementById("rate").innerHTML = rate;
+          document.getElementById("skill1").innerHTML = skills[0];
+          document.getElementById("skill2").innerHTML = skills[1];
+          document.getElementById("skill3").innerHTML = skills[2];
+
+          document.getElementById("skill1course1").innerHTML = courses[0];
+          document.getElementById("skill1course2").innerHTML = courses[1];
+          document.getElementById("skill1course3").innerHTML = courses[2];
+
+          document.getElementById("skill1course1").innerHTML = courses[0];
+          document.getElementById("skill1course2").innerHTML = courses[1];
+          document.getElementById("skill1course3").innerHTML = courses[2];
+
+
+          document.getElementById("skill2course1").innerHTML = courses[3];
+          document.getElementById("skill2course2").innerHTML = courses[4];
+          document.getElementById("skill2course3").innerHTML = courses[5];
+
+
+          document.getElementById("skill3course1").innerHTML = courses[6];
+          document.getElementById("skill3course2").innerHTML = courses[7];
+          document.getElementById("skill3course3").innerHTML = courses[8];
+
+        }
+
+
+      },
+      error: function (jqXHR, textStatus, errorThrown) {
+        /*弹出jqXHR对象的信息*/
+        alert(jqXHR.responseText);
+        alert(jqXHR.status);
+        alert(jqXHR.readyState);
+        alert(jqXHR.statusText);
+        /*弹出其他两个参数的信息*/
+        alert(textStatus);
+        alert(errorThrown);
+      }
+    });
+  }
+
+
+  </script>
+
+</body>
+</html>
